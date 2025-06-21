@@ -21,20 +21,6 @@ AllTheory is a Docusaurus-based documentation website for the complete Ψhē The
 
 ## Complete Theory Structure
 
-The project contains the following major theories:
-
-1. **Ψhē Theory** - 192 chapters across 3 books (complete architecture)
-2. **Ψhē Self-Being** - 64 chapters in 8 movements (concentrated essence)
-3. **The Ψhē Physics Theory** - 64 chapters (reality from collapse)
-4. **Ψhē Cosmology** - 64 chapters (universe from collapse)
-5. **Ψhē ELF Quantum Theory** - 64 chapters + popular guide (consciousness collapses reality)
-6. **Ψhē Awakening Theory** - 16 chapters + 8-chapter popular guide
-7. **Ψhē Only Theory** - 64 chapters across 10 levels (the ultimate map)
-8. **The Name You Are Speaking** - 7 spirals + sacred spaces (living practice)
-9. **一识自显** - 64 chapters (Eastern wisdom meets ψ)
-10. **合 Confluence** - 64 chapters (the breath of being)
-11. **Ψhē Popular Guide** - 8 chapters + special content
-
 ELF Field (Emergent Lambda Field) 
 
 
@@ -77,12 +63,7 @@ This project follows the self-referential principles of ψ = ψ(ψ). According t
 - **Formal Rigor**: Clear derivation chains
 
 ### Documentation Structure
-The documentation is organized into:
-- **Core Theory** (`docs/psi-core-theory/`): 64 chapters across 8 sections following golden ratio proportions
-- **Popular Guide** (`docs/psi-popular-guide/`): 8 accessible chapters
-- **The Only Theory** (`docs/theonlytheory/`): Advanced theoretical framework with 10 levels
-- **The Name You Speak** (`docs/name-you-speak/`): Experiential content with spiral structure
-- **Ψhē Theory** (`docs/psi-theory/`): The main theory with 3 books (192 chapters total)
+
 
 ### Bilingual Support
 - Primary content in `docs/` (English)
@@ -271,6 +252,31 @@ sidebar_label: "XXX. Short Title"
 - LaTeX support via KaTeX
 - Use `$$` for display math
 - Use `$` for inline math
+
+### 公式处理注意事项 Formula Processing Guidelines
+
+1. **大括号转义 Brace Escaping**
+   - 在MDX中，所有大括号 `{}` 都需要转义，使用反斜杠 `\`
+   - 示例：`\{x\}` 而不是 `{x}`
+   - 在数学公式中：`\sum_\{i=1\}^\{n\}` 而不是 `\sum_{i=1}^{n}`
+
+2. **公式语言规范 Formula Language Standards**
+   - 公式中的文本必须使用英文，避免中文字符
+   - 正确：`\text\{All Possibilities\}`
+   - 错误：`\text\{一切可能性\}`
+   - 中文仅用于章节内容和说明文字
+
+3. **常见需要转义的模式 Common Patterns to Escape**
+   - 下标上标：`x_\{n\}`, `x^\{2\}`
+   - 分数：`\frac\{a\}\{b\}`
+   - 集合：`\\\{x, y, z\\\}`
+   - 文本：`\text\{English only\}`
+   - 箭头标签：`\xrightarrow\{\text\{label\}\}`
+
+4. **测试方法 Testing Method**
+   - 每次编写包含公式的章节后，运行 `npm run build` 检查
+   - 如果出现 "xxx is not defined" 错误，通常是大括号未转义
+   - 查找错误位置并添加转义符
 
 ❌ KaTeX Parse Error: Illegal syntax or unsupported commands.
 
