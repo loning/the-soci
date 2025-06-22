@@ -469,6 +469,13 @@ To avoid build errors, please **escape them** as `\{` and `\}`.
    - `\hat{P}_{genesis}` not `\hat{P}_\{genesis\}`
    - `\sum_{n=1}^{\infty}` not `\sum_\{n=1\}^\{\infty\}`
    - `\text{content}` not `\text\{content\}`
+7. **Mathematical expressions in text**: 
+   - ALWAYS wrap math expressions with `$...$` for inline or `$$...$$` for display
+   - Examples: 
+     - 正确：`当$E_{accumulated} \to E_{threshold}$时`
+     - 错误：`当E_{accumulated} → E_{threshold}时`
+     - 正确：`第一次"听"：$|\psi_1\rangle = \hat{H}_{self}|\psi_0\rangle$`
+     - 错误：`第一次"听"：|ψ₁⟩ = Ĥ_{self}|ψ₀⟩`
 
 
 ## Deployment
