@@ -256,9 +256,9 @@ Design your perfect day in your manifested reality:
 ## Creating Your Blueprint Document
 ## 创建你的蓝图文件
 
-> 📚 **From the Manifestation Codex**: The blueprint creation process follows principles from Book 1's [Seed Encoding](../manifestation-codex/book-1-seed-of-collapse/part-03-seed-encoding/), especially [Chapter 019: Phi Lattice](../manifestation-codex/book-1-seed-of-collapse/part-03-seed-encoding/chapter-019-phi-lattice.md). Your Reality Blueprint creates a **φ-lattice structure** — a geometric pattern that holds the seeds of all your desires in perfect mathematical relationship. This lattice becomes the template around which reality organizes itself.
+> 📚 **From the Manifestation Codex**: The blueprint creation process follows principles from Book 1's [Seed Encoding](../manifestation-codex/book-1-seed-of-collapse/part-03-seed-encoding/chapter-017-signature-origin.md), especially [Chapter 019: Phi Lattice](../manifestation-codex/book-1-seed-of-collapse/part-03-seed-encoding/chapter-019-phi-lattice.md). Your Reality Blueprint creates a **φ-lattice structure** — a geometric pattern that holds the seeds of all your desires in perfect mathematical relationship. This lattice becomes the template around which reality organizes itself.
 >
-> 📚 **来自显化法典**：蓝图创建过程遵循第一册[种子编码](../manifestation-codex/book-1-seed-of-collapse/part-03-seed-encoding/)的原理，特别是[第019章：Phi格子](../manifestation-codex/book-1-seed-of-collapse/part-03-seed-encoding/chapter-019-phi-lattice.md)。你的现实蓝图创造一个**φ-格子结构**——一个几何模式，以完美的数学关系保持你所有愿望的种子。这个格子成为现实组织自己的模板。
+> 📚 **来自显化法典**：蓝图创建过程遵循第一册[种子编码](../manifestation-codex/book-1-seed-of-collapse/part-03-seed-encoding/chapter-017-signature-origin.md)的原理，特别是[第019章：Phi格子](../manifestation-codex/book-1-seed-of-collapse/part-03-seed-encoding/chapter-019-phi-lattice.md)。你的现实蓝图创造一个**φ-格子结构**——一个几何模式，以完美的数学关系保持你所有愿望的种子。这个格子成为现实组织自己的模板。
 
 Now compile everything into your master blueprint:
 

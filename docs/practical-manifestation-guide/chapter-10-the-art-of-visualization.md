@@ -175,9 +175,9 @@ Remember:
 ## Advanced Visualization Techniques
 ## 高级观想技术
 
-> 📚 **From the Manifestation Codex**: These advanced techniques connect to Book 3's teachings on [Perception and Visual Collapse](../manifestation-codex/book-3-collapse-focus/part-04-perception-and-visual-collapse/), especially [Chapter 029: Collapse is the Act of Framing](../manifestation-codex/book-3-collapse-focus/part-04-perception-and-visual-collapse/chapter-029-collapse-is-the-act-of-framing.md). Your visualization literally **frames reality** — what you imagine becomes the structural template that reality uses to organize itself.
+> 📚 **From the Manifestation Codex**: These advanced techniques connect to Book 3's teachings on [Perception and Visual Collapse](../manifestation-codex/book-3-collapse-focus/part-04-perception-and-visual-collapse/chapter-025-what-you-see-is-stabilized-collapse.md), especially [Chapter 029: Collapse is the Act of Framing](../manifestation-codex/book-3-collapse-focus/part-04-perception-and-visual-collapse/chapter-029-collapse-is-the-act-of-framing.md). Your visualization literally **frames reality** — what you imagine becomes the structural template that reality uses to organize itself.
 >
-> 📚 **来自显化法典**：这些高级技术与第三册关于[感知和视觉坍缩](../manifestation-codex/book-3-collapse-focus/part-04-perception-and-visual-collapse/)的教导相连，特别是[第029章：坍缩是框架的行为](../manifestation-codex/book-3-collapse-focus/part-04-perception-and-visual-collapse/chapter-029-collapse-is-the-act-of-framing.md)。你的观想实际上**框架现实**——你想象的成为现实用来组织自己的结构模板。
+> 📚 **来自显化法典**：这些高级技术与第三册关于[感知和视觉坍缩](../manifestation-codex/book-3-collapse-focus/part-04-perception-and-visual-collapse/chapter-025-what-you-see-is-stabilized-collapse.md)的教导相连，特别是[第029章：坍缩是框架的行为](../manifestation-codex/book-3-collapse-focus/part-04-perception-and-visual-collapse/chapter-029-collapse-is-the-act-of-framing.md)。你的观想实际上**框架现实**——你想象的成为现实用来组织自己的结构模板。
 
 ### The Movie Method / 电影方法
 1. Create opening scene (current reality) / 创建开场场景（当前现实）

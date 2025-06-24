@@ -304,11 +304,11 @@ For deeper exploration of emotional alignment mechanics:
 
 要更深入地探索情绪对齐机制：
 
-- **[Chapter 030: Echo Requires Intimacy](../manifestation-codex/book-4-echo-expression/part-04-observer-driven-expression/chapter-030-echo-requires-intimacy.md)** - How authentic emotional connection with your desires accelerates manifestation
+- **[Chapter 032: Echo Requires Intimacy](../manifestation-codex/book-4-echo-expression/part-04-observer-driven-expression/chapter-032-echo-requires-intimacy.md)** - How authentic emotional connection with your desires accelerates manifestation
 - **[Chapter 014: Collapse Shell Resonance Field](../manifestation-codex/book-4-echo-expression/part-02-feedback-channel-architecture/chapter-014-collapse-shell-resonance-field.md)** - The vibrational mechanics of how emotional frequency creates reality shells
 - **[Chapter 062: Collapse Equals Conversational Universe](../manifestation-codex/book-4-echo-expression/part-08-the-law-of-collapse-expression/chapter-062-collapse-equals-conversational-universe.md)** - Understanding that your emotions are literally a conversation with reality
 
-- **[第030章：回音需要亲密](../manifestation-codex/book-4-echo-expression/part-04-observer-driven-expression/chapter-030-echo-requires-intimacy.md)** - 与你的愿望真实的情绪连接如何加速显化
+- **[第032章：回音需要亲密](../manifestation-codex/book-4-echo-expression/part-04-observer-driven-expression/chapter-032-echo-requires-intimacy.md)** - 与你的愿望真实的情绪连接如何加速显化
 - **[第014章：坍缩外壳共振场](../manifestation-codex/book-4-echo-expression/part-02-feedback-channel-architecture/chapter-014-collapse-shell-resonance-field.md)** - 情绪频率如何创造现实外壳的振动机制
 - **[第062章：坍缩等于对话宇宙](../manifestation-codex/book-4-echo-expression/part-08-the-law-of-collapse-expression/chapter-062-collapse-equals-conversational-universe.md)** - 理解你的情绪实际上是与现实的对话
 
