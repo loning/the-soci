@@ -162,6 +162,12 @@ Before and after sharing:
 - Am I seeking validation? / 我在寻求验证吗？
 - Did I give power away? / 我放弃力量了吗？
 
+> **🔮 Deep Dive: Transmission Dynamics in the Manifestation Codex**
+> 
+> Sharing manifestation power without losing it operates through what the Codex calls "observer-based shell transport." In [Chapter 045: Observer Based Shell Transport](../manifestation-codex/book-6-shell-sealing/part-06-sealing-for-transmission/chapter-045-observer-based-shell-transport.md), you'll discover how to package your manifestation successes as replayable experiences that empower others while strengthening your own field. The "collapse compression protocols" in Chapter 043 teach you to compress your manifestation breakthroughs into transmittable codes that maintain their power across multiple sharings.
+> 
+> 分享显化力量而不失去它通过法典称为"基于观察者的壳传输"来运作。在[第045章：基于观察者的壳传输](../manifestation-codex/book-6-shell-sealing/part-06-sealing-for-transmission/chapter-045-observer-based-shell-transport.md)中，你将发现如何将你的显化成功打包为可重现的体验，这些体验能够赋能他人同时强化你自己的场域。第043章中的"坍缩压缩协议"教你将你的显化突破压缩成可传输的代码，这些代码在多次分享中保持其力量。
+
 ## Creating Your Success Circle
 ## 创建你的成功圈
 
@@ -354,6 +360,23 @@ True power comes not from keeping secrets but from sharing with sovereignty. Whe
 You become a lighthouse — firmly grounded in your own power while guiding others to find theirs. This is the highest form of manifestation: creating ripples of possibility that transform not just your life, but the world.
 
 你成为一座灯塔——牢固地扎根于你自己的力量，同时引导他人找到他们的。这是显化的最高形式：创造可能性的涟漪，不仅转变你的生活，也转变世界。
+
+---
+
+## Further Study in the Manifestation Codex
+## 在显化法典中进一步学习
+
+To master the art of sharing manifestation power while maintaining and even amplifying your own energy, explore these transmission chapters:
+
+要掌握分享显化力量同时维持甚至放大你自己能量的艺术，探索这些传输章节：
+
+- **[Chapter 043: Collapse Compression Protocols](../manifestation-codex/book-6-shell-sealing/part-06-sealing-for-transmission/chapter-043-collapse-compression-protocols.md)** — Learn to compress your manifestation breakthroughs into shareable packages that maintain their power across multiple transmissions
+- **[Chapter 045: Observer Based Shell Transport](../manifestation-codex/book-6-shell-sealing/part-06-sealing-for-transmission/chapter-045-observer-based-shell-transport.md)** — Master the technique of transporting complete manifestation "shells" to others while keeping the core power with you
+- **[Chapter 047: Echo Capsules](../manifestation-codex/book-6-shell-sealing/part-06-sealing-for-transmission/chapter-047-echo-capsules.md)** — Create "echo capsules" of your success that others can access and activate in their own reality, multiplying rather than depleting your manifestation field
+
+- **[第043章：坍缩压缩协议](../manifestation-codex/book-6-shell-sealing/part-06-sealing-for-transmission/chapter-043-collapse-compression-protocols.md)** — 学习将你的显化突破压缩成可分享的包，这些包在多次传输中保持其力量
+- **[第045章：基于观察者的壳传输](../manifestation-codex/book-6-shell-sealing/part-06-sealing-for-transmission/chapter-045-observer-based-shell-transport.md)** — 掌握将完整的显化"壳"传输给他人同时保持核心力量在你身上的技术
+- **[第047章：回声胶囊](../manifestation-codex/book-6-shell-sealing/part-06-sealing-for-transmission/chapter-047-echo-capsules.md)** — 创造你成功的"回声胶囊"，他人可以在他们自己的现实中访问和激活，倍增而不是消耗你的显化场域
 
 ---
 

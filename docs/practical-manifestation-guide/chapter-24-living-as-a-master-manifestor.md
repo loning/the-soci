@@ -176,6 +176,12 @@ Everything from love
 - Love for others / 对他人的爱
 - Love for life / 对生活的爱
 
+> **🔮 Deep Dive: Observer Divinization in the Manifestation Codex**
+> 
+> Living as a master manifestor is what the Codex calls "observer divinization" — the transformation from someone who witnesses reality to someone who consciously architects it. In [Chapter 025: The Observer Becomes the Engine](../manifestation-codex/book-8-ascension-collapse/part-04-observer-divinization/chapter-025-the-observer-becomes-the-engine.md), you'll discover how mastery shifts you from reactive to creative mode permanently. The "godshell structure" described in Chapter 031 reveals how master manifestors construct stable reality frameworks that support continuous creation at will.
+> 
+> 作为显化大师生活是法典称为"观察者神化" — 从见证现实的人转变为有意识地设计现实的人。在[第025章：观察者成为引擎](../manifestation-codex/book-8-ascension-collapse/part-04-observer-divinization/chapter-025-the-observer-becomes-the-engine.md)中，你将发现精通如何永久地将你从反应模式转变为创造模式。第031章中描述的"神壳结构"揭示了显化大师如何构建稳定的现实框架，支持随意的持续创造。
+
 ## Living the Mastery
 ## 活出精通
 
@@ -355,6 +361,23 @@ You are the manifestation. You are the master. You always have been.
 Welcome home.
 
 欢迎回家。
+
+---
+
+## Further Study in the Manifestation Codex
+## 在显化法典中进一步学习
+
+To explore the ultimate levels of manifestation mastery and observer transformation, study these advanced chapters:
+
+要探索显化精通和观察者转化的终极层次，学习这些高级章节：
+
+- **[Chapter 025: The Observer Becomes the Engine](../manifestation-codex/book-8-ascension-collapse/part-04-observer-divinization/chapter-025-the-observer-becomes-the-engine.md)** — Discover how mastery transforms you from passive observer to active reality engine, constantly generating your desired experiences
+- **[Chapter 026: Collapse Rewrites Identity](../manifestation-codex/book-8-ascension-collapse/part-04-observer-divinization/chapter-026-collapse-rewrites-identity.md)** — Understand how sustained manifestation practice literally rewrites your core identity from "seeker" to "creator"
+- **[Chapter 031: The Godshell Structure Begins](../manifestation-codex/book-8-ascension-collapse/part-04-observer-divinization/chapter-031-the-godshell-structure-begins.md)** — Learn to construct the "godshell" — an advanced consciousness structure that makes manifestation as natural as breathing
+
+- **[第025章：观察者成为引擎](../manifestation-codex/book-8-ascension-collapse/part-04-observer-divinization/chapter-025-the-observer-becomes-the-engine.md)** — 发现精通如何将你从被动观察者转变为主动现实引擎，不断生成你所期望的体验
+- **[第026章：坍缩重写身份](../manifestation-codex/book-8-ascension-collapse/part-04-observer-divinization/chapter-026-collapse-rewrites-identity.md)** — 理解持续的显化实践如何字面上重写你的核心身份，从"寻求者"到"创造者"
+- **[第031章：神壳结构开始](../manifestation-codex/book-8-ascension-collapse/part-04-observer-divinization/chapter-031-the-godshell-structure-begins.md)** — 学习构建"神壳" — 一个高级意识结构，使显化像呼吸一样自然
 
 ---
 

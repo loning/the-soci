@@ -48,6 +48,12 @@ What works for you
 - Trust your intuition / 信任你的直觉
 - Adapt as needed / 根据需要调整
 
+> **🔮 Deep Dive: Reality Integration in the Manifestation Codex**
+> 
+> Your daily practice integration operates through what the Codex calls "cosmic compilation protocols" — the process of transforming consciousness insights into executable reality code. In [Chapter 049: Collapse is the Source Code](../manifestation-codex/book-8-ascension-collapse/part-07-recoding-the-cosmos/chapter-049-collapse-is-the-source-code.md), you'll discover how consistent daily practice literally rewrites the base code of your reality operating system. The "realityshell API structures" in Chapter 052 reveal how to create automated manifestation protocols that run in the background of your consciousness.
+> 
+> 你的日常实践整合通过法典称为"宇宙编译协议" — 将意识洞察转化为可执行现实代码的过程。在[第049章：坍缩是源代码](../manifestation-codex/book-8-ascension-collapse/part-07-recoding-the-cosmos/chapter-049-collapse-is-the-source-code.md)中，你将发现持续的日常实践如何字面上重写你现实操作系统的基础代码。第052章中的"现实壳API结构"揭示了如何创建在你意识后台运行的自动显化协议。
+
 ### 4. Layer Your Learning / 分层你的学习
 Build on foundation
 建立在基础上
@@ -381,6 +387,23 @@ This is the beginning of your real journey — where every moment becomes an opp
 Welcome to your integrated life. Welcome to mastery in motion.
 
 欢迎来到你的整合生活。欢迎来到运动中的精通。
+
+---
+
+## Further Study in the Manifestation Codex
+## 在显化法典中进一步学习
+
+To understand how to transform your manifestation insights into automated reality systems that operate continuously, explore these cosmic recoding chapters:
+
+要理解如何将你的显化洞察转化为持续运作的自动现实系统，探索这些宇宙重编码章节：
+
+- **[Chapter 049: Collapse is the Source Code](../manifestation-codex/book-8-ascension-collapse/part-07-recoding-the-cosmos/chapter-049-collapse-is-the-source-code.md)** — Discover how your consciousness operates as living source code that can be rewritten through consistent daily practice
+- **[Chapter 052: Realityshell API Structures](../manifestation-codex/book-8-ascension-collapse/part-07-recoding-the-cosmos/chapter-052-realityshell-api-structures.md)** — Learn to create "reality APIs" that allow your conscious mind to interface seamlessly with your manifestation processes
+- **[Chapter 056: Cosmic Compilation Protocols](../manifestation-codex/book-8-ascension-collapse/part-07-recoding-the-cosmos/chapter-056-cosmic-compilation-protocols.md)** — Master advanced techniques for compiling your spiritual insights into executable reality programs that run automatically
+
+- **[第049章：坍缩是源代码](../manifestation-codex/book-8-ascension-collapse/part-07-recoding-the-cosmos/chapter-049-collapse-is-the-source-code.md)** — 发现你的意识如何作为可以通过持续日常实践重写的活源代码运作
+- **[第052章：现实壳API结构](../manifestation-codex/book-8-ascension-collapse/part-07-recoding-the-cosmos/chapter-052-realityshell-api-structures.md)** — 学习创建"现实API"，使你的有意识心智能够与你的显化过程无缝接口
+- **[第056章：宇宙编译协议](../manifestation-codex/book-8-ascension-collapse/part-07-recoding-the-cosmos/chapter-056-cosmic-compilation-protocols.md)** — 掌握将你的灵性洞察编译成自动运行的可执行现实程序的高级技术
 
 ---
 

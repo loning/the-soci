@@ -116,6 +116,12 @@ _______________________
 ## The Art of Celebration
 ## 庆祝的艺术
 
+> **Manifestation Codex Reference | 显化法典参考**
+> 
+> The importance of completion and celebration in the manifestation process is detailed in [Chapter 058: Collapse Requires Yielding](../manifestation-codex/book-1-seed-of-collapse/part-08-kun-law/chapter-058-collapse-requires-yielding.md), which explains how yielding and recognition complete the creative cycle.
+> 
+> 完成和庆祝在显化过程中的重要性在[第058章：坍塌需要屈服](../manifestation-codex/book-1-seed-of-collapse/part-08-kun-law/chapter-058-collapse-requires-yielding.md)中有详细说明，解释了屈服和认出如何完成创造周期。
+
 ### Make It Personal / 使其个人化
 Your celebration should feel good to YOU
 你的庆祝应该让你感觉良好
@@ -387,6 +393,17 @@ Every celebration is a seed for the next miracle. Every acknowledgment is an inv
 Celebrate now. Celebrate often. Celebrate everything. Watch your world transform through the power of joyful recognition.
 
 现在庆祝。经常庆祝。庆祝一切。通过喜悦认可的力量观察你的世界转变。
+
+## Further Study in the Manifestation Codex
+## 在显化法典中的进一步学习
+
+To deepen your understanding of celebration and completion in manifestation, explore these related chapters in the Manifestation Codex:
+
+为了加深你对庆祝和显化完成的理解，请探索显化法典中这些相关章节：
+
+- [Chapter 061: Womb Remembers Echoes](../manifestation-codex/book-1-seed-of-collapse/part-08-kun-law/chapter-061-womb-remembers-echoes.md) - How acknowledgment creates memory patterns for future manifestation | 认可如何为未来显化创造记忆模式
+- [Chapter 062: Shell Song Potential](../manifestation-codex/book-1-seed-of-collapse/part-08-kun-law/chapter-062-shell-song-potential.md) - The resonance created by celebrating completed forms | 庆祝完成形式所创造的共鸣
+- [Chapter 032: You Complete the Collapse](../manifestation-codex/book-4-echo-expression/part-04-observer-driven-expression/chapter-032-echo-requires-intimacy.md) - The intimate recognition that seals manifestation | 封印显化的亲密认知
 
 ---
 

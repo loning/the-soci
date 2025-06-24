@@ -76,6 +76,10 @@ Modern research points to this spark:
 
 现代研究指向这火花：
 
+> **Reference to Manifestation Codex**: The spark of consciousness explored here corresponds to the ignition principles in [Book II: Collapse Ignition (震)](../manifestation-codex/book-2-collapse-ignition/index.md), particularly [Chapter 1: The First Quiver](../manifestation-codex/book-2-collapse-ignition/part-01-first-stirring/chapter-001-the-first-quiver.md) and [Chapter 6: From Silence a Strike](../manifestation-codex/book-2-collapse-ignition/part-01-first-stirring/chapter-006-from-silence-a-strike.md), which detail the mathematical mechanics of how consciousness first stirs from undifferentiated potential into active creative force.
+> 
+> **显化法典参考**：这里探索的意识火花对应于[《第二册：坍缩点燃（震）》](../manifestation-codex/book-2-collapse-ignition/index.md)中的点燃原理，特别是[第1章：第一颤动](../manifestation-codex/book-2-collapse-ignition/part-01-first-stirring/chapter-001-the-first-quiver.md)和[第6章：从寂静一击](../manifestation-codex/book-2-collapse-ignition/part-01-first-stirring/chapter-006-from-silence-a-strike.md)，详细说明了意识如何从无差别潜能首次激起成为活跃创造力的数学机制。
+
 ### Quantum Biology / 量子生物学
 - Consciousness appears to collapse quantum states in the brain / 意识似乎坍缩大脑中的量子态
 - Microtubules may be quantum processors / 微管可能是量子处理器
@@ -329,6 +333,17 @@ Your spark is the same creative force that:
 You are not small. You are not powerless. You are the universe expressing itself as you.
 
 你不渺小。你不无力。你是宇宙表达为你。
+
+## Further Study in the Manifestation Codex
+## 显化法典中的进一步学习
+
+For deeper understanding of consciousness ignition and the spark principle, explore these chapters:
+
+要更深入理解意识点燃和火花原理，请探索这些章节：
+
+- **[Chapter 2: Stirring Without Motion](../manifestation-codex/book-2-collapse-ignition/part-01-first-stirring/chapter-002-stirring-without-motion.md)** - How consciousness begins to move from stillness / 意识如何从静止开始运动
+- **[Chapter 7: Latency Transforms to Urgency](../manifestation-codex/book-2-collapse-ignition/part-01-first-stirring/chapter-007-latency-transforms-to-urgency.md)** - The moment potential becomes kinetic / 潜能变成动能的时刻
+- **[Chapter 8: Reality Hears Itself](../manifestation-codex/book-2-collapse-ignition/part-01-first-stirring/chapter-008-reality-hears-itself.md)** - The self-recognition of creative consciousness / 创造意识的自我认识
 
 ---
 

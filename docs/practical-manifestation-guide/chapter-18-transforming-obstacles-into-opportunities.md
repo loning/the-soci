@@ -62,6 +62,12 @@ Growing your capacity
 ## Types of Obstacles and Their Gifts
 ## 障碍类型及其礼物
 
+> **Manifestation Codex Reference | 显化法典参考**
+> 
+> The transformation of obstacles into opportunities is detailed in [Chapter 049: Rewombing Psi Seed](../manifestation-codex/book-1-seed-of-collapse/part-07-recoherence-rewiring/chapter-049-rewombing-psi-seed.md), which explains how apparent failures can be recontextualized into new manifestation possibilities.
+> 
+> 将障碍转化为机会的过程在[第049章：重新孕育Psi种子](../manifestation-codex/book-1-seed-of-collapse/part-07-recoherence-rewiring/chapter-049-rewombing-psi-seed.md)中有详细说明，解释了表面的失败如何被重新语境化为新的显化可能性。
+
 ### External Obstacles / 外部障碍
 
 **Financial Blocks** / **财务障碍**
@@ -335,6 +341,17 @@ When you truly understand this, you'll stop avoiding obstacles and start seeking
 The master manifestor doesn't have fewer obstacles — they just transform them faster.
 
 显化大师没有更少的障碍——他们只是更快地转化它们。
+
+## Further Study in the Manifestation Codex
+## 在显化法典中的进一步学习
+
+To deepen your understanding of transforming obstacles into opportunities, explore these related chapters in the Manifestation Codex:
+
+为了加深你对将障碍转化为机会的理解，请探索显化法典中这些相关章节：
+
+- [Chapter 050: Collapse Synchronization](../manifestation-codex/book-1-seed-of-collapse/part-07-recoherence-rewiring/chapter-050-collapse-synchronization.md) - How apparent chaos reorganizes into greater order | 表面的混乱如何重新组织成更大的秩序
+- [Chapter 053: Echo Driven Regeneration](../manifestation-codex/book-1-seed-of-collapse/part-07-recoherence-rewiring/chapter-053-echo-driven-regeneration.md) - The regenerative power hidden within breakdowns | 崩溃中隐藏的再生力量
+- [Chapter 043: Fragmented Destiny Feedback](../manifestation-codex/book-5-echo-reversal/part-06-fate-distortions-and-collapse-errors/chapter-043-fragmented-destiny-feedback.md) - Understanding how obstacles create new manifestation pathways | 理解障碍如何创造新的显化路径
 
 ---
 

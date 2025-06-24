@@ -47,6 +47,10 @@ Here's how thoughts become things through collapse:
 
 以下是思想通过坍缩成为事物的过程：
 
+> **Reference to Manifestation Codex**: The detailed mechanics of the collapse process are explored in [Book I: Seed of Collapse (坤)](../manifestation-codex/book-1-seed-of-collapse/index.md) and [Book II: Collapse Ignition (震)](../manifestation-codex/book-2-collapse-ignition/index.md), particularly in [Chapter 3: Collapse Uncalled](../manifestation-codex/book-1-seed-of-collapse/part-01-pre-collapse/chapter-003-collapse-uncalled.md) and [Chapter 25: Attention Triggers Collapse](../manifestation-codex/book-2-collapse-ignition/part-04-observer-as-ignition-catalyst/chapter-025-attention-triggers-collapse.md), where the mathematical formulations of reality collapse are precisely defined.
+> 
+> **显化法典参考**：坍缩过程的详细机制在[《第一册：坍缩种子（坤）》](../manifestation-codex/book-1-seed-of-collapse/index.md)和[《第二册：坍缩点燃（震）》](../manifestation-codex/book-2-collapse-ignition/index.md)中得到探索，特别是在[第3章：无召坍缩](../manifestation-codex/book-1-seed-of-collapse/part-01-pre-collapse/chapter-003-collapse-uncalled.md)和[第25章：注意力触发坍缩](../manifestation-codex/book-2-collapse-ignition/part-04-observer-as-ignition-catalyst/chapter-025-attention-triggers-collapse.md)中，精确定义了现实坍缩的数学公式。
+
 ### Stage 1: Field of Possibilities / 阶段1：可能性场域
 Everything you could experience exists in potential form
 你可能体验的一切都以潜在形式存在
@@ -129,6 +133,25 @@ The actual moment of collapse is instantaneous. It happens when:
 In that moment, the universe reorganizes itself to match your inner state.
 
 在那一刻，宇宙重新组织自己以匹配你的内在状态。
+
+---
+
+> **🔗 Connection to the Manifestation Codex**
+> **🔗 与显化法典的连接**
+> 
+> The collapse mechanism described here is the practical application of the theoretical principles in **The Manifestation Codex**. For deeper understanding of the quantum mechanics behind thought-to-reality transformation, explore:
+> 
+> 这里描述的坍缩机制是**显化法典**中理论原理的实际应用。要更深入地理解思想到现实转换背后的量子力学，请探索：
+> 
+> - **Book I**: The mathematical foundations of ψ = ψ(ψ) that govern reality collapse
+> - **Book II: Chapter 7** (震 - Collapse Ignition): The precise mechanics of how consciousness triggers manifestation
+> - **Book I: Chapter 4** (空 - Emptiness as Fullness): How possibility waves exist in potential before collapse
+> 
+> - **第一册**：支配现实坍缩的 ψ = ψ(ψ) 数学基础
+> - **第二册：第7章**（震 - 坍缩点燃）：意识如何触发显化的精确机制
+> - **第一册：第4章**（空 - 虚空即圆满）：可能性波如何在坍缩前以潜能形式存在
+
+---
 
 ## Common Collapse Blockers
 ## 常见的坍缩阻碍
@@ -381,6 +404,17 @@ This happens when you:
 - Release all desperation / 释放所有绝望
 - Know your creative power / 知道你的创造力
 - Live in appreciation / 生活在感激中
+
+## Further Study in the Manifestation Codex
+## 显化法典中的进一步学习
+
+For deeper exploration of collapse mechanics and how consciousness transforms possibilities into reality, study these chapters:
+
+要更深入地探索坍缩机制以及意识如何将可能性转化为现实，请学习这些章节：
+
+- **[Chapter 1: The First Quiver](../manifestation-codex/book-2-collapse-ignition/part-01-first-stirring/chapter-001-the-first-quiver.md)** - The initial moment when possibility begins to collapse / 可能性开始坍缩的初始时刻
+- **[Chapter 26: Intention as Spark](../manifestation-codex/book-2-collapse-ignition/part-04-observer-as-ignition-catalyst/chapter-026-intention-as-spark.md)** - How conscious intention triggers reality collapse / 有意识的意图如何触发现实坍缩
+- **[Chapter 4: Void Seed Field](../manifestation-codex/book-1-seed-of-collapse/part-01-pre-collapse/chapter-004-void-seed-field.md)** - The field of infinite possibilities from which reality emerges / 现实从中涌现的无限可能性场域
 
 ---
 

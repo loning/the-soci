@@ -90,6 +90,10 @@ Before opening eyes:
 ## Weekly Power Practices
 ## 每周力量练习
 
+> 📚 **From the Manifestation Codex**: For deeper understanding of how daily practice creates structural collapse patterns, see Book 3 [Collapse Focus](../manifestation-codex/book-3-collapse-focus/), particularly [Chapter 025: What You See is Stabilized Collapse](../manifestation-codex/book-3-collapse-focus/part-04-perception-and-visual-collapse/chapter-025-what-you-see-is-stabilized-collapse.md). The systematic practice we're building here follows the **Law of Structural Collapse** — repeated attention creates stable reality-shells.
+>
+> 📚 **来自显化法典**：要更深入地理解日常练习如何创造结构性坍缩模式，请参阅第三册[坍缩聚焦](../manifestation-codex/book-3-collapse-focus/)，特别是[第025章：你看到的是稳定的坍缩](../manifestation-codex/book-3-collapse-focus/part-04-perception-and-visual-collapse/chapter-025-what-you-see-is-stabilized-collapse.md)。我们在这里建立的系统性练习遵循**结构性坍缩法则**——重复的注意力创造稳定的现实外壳。
+
 Beyond daily practices, add these weekly boosters:
 
 除了日常练习，添加这些每周助推器：
@@ -349,6 +353,21 @@ Write and sign:
 "我承诺进行日常意识扩展练习，因为我认真对待创造我期望的现实。即使我不想做，我也会练习，相信一致性创造奇迹。我对过程有耐心，对我的扩展感到兴奋。我的练习是我给自己的礼物，是我对宇宙意识进化的贡献。"
 
 Name/姓名: _________________ Date/日期: _________________
+
+## Further Study in the Manifestation Codex
+## 在显化法典中的进一步学习
+
+To deepen your understanding of daily consciousness practices:
+
+要加深对日常意识练习的理解：
+
+- **[Chapter 057: Stillness is Power](../manifestation-codex/book-1-seed-of-collapse/part-08-kun-law/chapter-057-stillness-is-power.md)** - The foundational principle that receptive daily practice creates more power than forceful action
+- **[Chapter 061: Womb Remembers Echoes](../manifestation-codex/book-1-seed-of-collapse/part-08-kun-law/chapter-061-womb-remembers-echoes.md)** - How consistent practice creates memory patterns that attract desired experiences  
+- **[Chapter 025: Attention Triggers Collapse](../manifestation-codex/book-2-collapse-ignition/part-04-observer-as-ignition-catalyst/chapter-025-attention-triggers-collapse.md)** - The mechanics of how your daily attention literally creates reality
+
+- **[第057章：静止即力量](../manifestation-codex/book-1-seed-of-collapse/part-08-kun-law/chapter-057-stillness-is-power.md)** - 接受性日常练习比强迫行动创造更多力量的基本原理
+- **[第061章：子宫记住回音](../manifestation-codex/book-1-seed-of-collapse/part-08-kun-law/chapter-061-womb-remembers-echoes.md)** - 持续练习如何创造吸引期望体验的记忆模式
+- **[第025章：注意力触发坍缩](../manifestation-codex/book-2-collapse-ignition/part-04-observer-as-ignition-catalyst/chapter-025-attention-triggers-collapse.md)** - 你的日常注意力如何实际创造现实的机制
 
 ---
 

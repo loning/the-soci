@@ -172,6 +172,10 @@ Right: "I choose this with joy"
 ## Refining Your Intention
 ## 精炼你的意图
 
+> 📚 **From the Manifestation Codex**: The process of making intentions crystal clear relates to Book 2's [Collapse Ignition](../manifestation-codex/book-2-collapse-ignition/) teachings, especially [Chapter 026: Intention as Spark](../manifestation-codex/book-2-collapse-ignition/part-04-observer-as-ignition-catalyst/chapter-026-intention-as-spark.md). Clear intention creates the **ignition voltage** needed to collapse potential into manifestation. Vague wishes lack the energetic specificity to trigger reality formation.
+>
+> 📚 **来自显化法典**：使意图变得晶莹剔透的过程与第二册[坍缩点燃](../manifestation-codex/book-2-collapse-ignition/)的教导相关，特别是[第026章：意图即火花](../manifestation-codex/book-2-collapse-ignition/part-04-observer-as-ignition-catalyst/chapter-026-intention-as-spark.md)。清晰的意图创造将潜能坍缩为显化所需的**点燃电压**。模糊的愿望缺乏触发现实形成的能量特异性。
+
 Like polishing a diamond, refine your intention until it sparkles:
 
 像抛光钻石一样，精炼你的意图直到它闪闪发光：
@@ -340,6 +344,21 @@ When your intention is truly clear:
 Remember: Clarity is power. The clearer you are about what you want, the faster the universe can deliver it. Take time to polish your intentions until they shine like diamonds.
 
 记住：清晰就是力量。你对想要什么越清晰，宇宙就能越快地交付它。花时间抛光你的意图，直到它们像钻石一样闪耀。
+
+## Further Study in the Manifestation Codex
+## 在显化法典中的进一步学习
+
+For deeper exploration of intention mechanics:
+
+要更深入地探索意图机制：
+
+- **[Chapter 028: Collapse Alignment via Gaze](../manifestation-codex/book-2-collapse-ignition/part-04-observer-as-ignition-catalyst/chapter-028-collapse-alignment-via-gaze.md)** - How your focused attention on clear intentions creates alignment between observer and manifestation
+- **[Chapter 017: Collapse is Not a Line](../manifestation-codex/book-2-collapse-ignition/part-03-multidirectional-collapse-vectors/chapter-017-collapse-is-not-a-line.md)** - Why intentions work through multidimensional pathways rather than linear goals
+- **[Chapter 060: Manifestation is Not Line But Flash](../manifestation-codex/book-2-collapse-ignition/part-08-the-law-of-collapse-ignition/chapter-060-manifestation-is-not-line-but-flash.md)** - The fundamental law of how clear intention creates instantaneous reality collapse
+
+- **[第028章：通过凝视的坍缩对齐](../manifestation-codex/book-2-collapse-ignition/part-04-observer-as-ignition-catalyst/chapter-028-collapse-alignment-via-gaze.md)** - 你对清晰意图的专注注意力如何在观察者和显化之间创造对齐
+- **[第017章：坍缩不是一条线](../manifestation-codex/book-2-collapse-ignition/part-03-multidirectional-collapse-vectors/chapter-017-collapse-is-not-a-line.md)** - 为什么意图通过多维通道而不是线性目标工作
+- **[第060章：显化不是线而是闪光](../manifestation-codex/book-2-collapse-ignition/part-08-the-law-of-collapse-ignition/chapter-060-manifestation-is-not-line-but-flash.md)** - 清晰意图如何创造瞬间现实坍缩的基本法则
 
 ---
 

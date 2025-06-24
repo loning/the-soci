@@ -255,6 +255,12 @@ Regular energy maintenance:
 - Seasonal refresh / 季节性刷新
 - Annual reset / 年度重置
 
+> **🔮 Deep Dive: Shell Architecture in the Manifestation Codex**
+> 
+> Your environment acts as what the Codex calls a "realityshell" — a structured field that contains and amplifies your manifestations. In [Chapter 014: Shell Becomes Temporal Anchor](../manifestation-codex/book-6-shell-sealing/part-02-freezing-collapse-structures/chapter-010-shell-becomes-temporal-anchor.md), you'll learn how physical spaces can anchor your desired timeline. The "frozen structures are replayable" principle in Chapter 020 explains why creating the right environment makes manifestation easier — your space literally holds the memory of successful creations.
+> 
+> 你的环境作为法典称为"现实壳"的东西 — 一个包含和放大你显化的结构化场域。在[第014章：壳成为时间锚点](../manifestation-codex/book-6-shell-sealing/part-02-freezing-collapse-structures/chapter-010-shell-becomes-temporal-anchor.md)中，你将学习物理空间如何锚定你的期望时间线。第020章中的"冻结结构可重现"原理解释了为什么创造正确的环境会让显化更容易 — 你的空间字面上保持了成功创造的记忆。
+
 ## The Manifestation Lifestyle
 ## 显化生活方式
 
@@ -361,6 +367,23 @@ Your environment is a living vision board. Every object, every relationship, eve
 When your environment reflects your desires, manifestation becomes inevitable. You're not just thinking about your dreams — you're living in the energy of them already realized.
 
 当你的环境反映你的愿望时，显化变得不可避免。你不只是在想你的梦想——你生活在它们已经实现的能量中。
+
+---
+
+## Further Study in the Manifestation Codex
+## 在显化法典中进一步学习
+
+To understand the deeper mechanics of environmental manifestation and shell architecture, explore these chapters:
+
+要理解环境显化和壳架构的更深层机制，探索这些章节：
+
+- **[Chapter 010: Shell Becomes Temporal Anchor](../manifestation-codex/book-6-shell-sealing/part-02-freezing-collapse-structures/chapter-010-shell-becomes-temporal-anchor.md)** — Learn how your physical environment can anchor specific timelines and make certain manifestations more probable
+- **[Chapter 018: Realityshell Equals Time Engram Lattice](../manifestation-codex/book-6-shell-sealing/part-03-shells-of-memory/chapter-018-realityshell-equals-time-engram-lattice.md)** — Discover how your space stores energetic memories and how to program it for automatic manifestation support
+- **[Chapter 042: Psi Code Packages](../manifestation-codex/book-6-shell-sealing/part-06-sealing-for-transmission/chapter-042-psi-code-packages.md)** — Master the art of creating "environment codes" that automatically trigger desired states in anyone who enters your space
+
+- **[第010章：壳成为时间锚点](../manifestation-codex/book-6-shell-sealing/part-02-freezing-collapse-structures/chapter-010-shell-becomes-temporal-anchor.md)** — 学习你的物理环境如何能够锚定特定时间线并使某些显化更可能发生
+- **[第018章：现实壳等于时间记忆晶格](../manifestation-codex/book-6-shell-sealing/part-03-shells-of-memory/chapter-018-realityshell-equals-time-engram-lattice.md)** — 发现你的空间如何存储能量记忆以及如何为其编程以提供自动显化支持
+- **[第042章：Psi代码包](../manifestation-codex/book-6-shell-sealing/part-06-sealing-for-transmission/chapter-042-psi-code-packages.md)** — 掌握创造"环境代码"的艺术，这些代码可以自动触发任何进入你空间的人的期望状态
 
 ---
 

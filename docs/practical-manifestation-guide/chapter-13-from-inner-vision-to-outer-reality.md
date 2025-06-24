@@ -79,6 +79,12 @@ Actions make dreams tangible
 ## Exercise 13.1: The Expression Assessment
 ## 练习 13.1：表达评估
 
+> **Manifestation Codex Reference | 显化法典参考**
+> 
+> The relationship between inner vision and outer reality is explored in detail in [Chapter 025: Attention Triggers Collapse](../manifestation-codex/book-2-collapse-ignition/part-04-observer-as-ignition-catalyst/chapter-025-attention-triggers-collapse.md), which reveals how focused attention catalyzes the collapse of potential into form.
+> 
+> 内在愿景与外在现实之间的关系在[第025章：注意力触发坍塌](../manifestation-codex/book-2-collapse-ignition/part-04-observer-as-ignition-catalyst/chapter-025-attention-triggers-collapse.md)中得到详细探讨，揭示了专注的注意力如何催化潜能向形式的坍塌。
+
 Evaluate your current expression:
 
 评估你当前的表达：
@@ -339,6 +345,17 @@ Here's what master manifestors know: Expression isn't about making things happen
 When you align being, speaking, and doing with your inner vision, you become an open channel for miracles. The universe expresses through you, as you, for the joy of creation itself.
 
 当你将存在、说话和行动与你的内在愿景对齐时，你成为奇迹的开放通道。宇宙通过你、作为你表达，为了创造本身的喜悦。
+
+## Further Study in the Manifestation Codex
+## 在显化法典中的进一步学习
+
+To deepen your understanding of expression and manifestation, explore these related chapters in the Manifestation Codex:
+
+为了加深你对表达和显化的理解，请探索显化法典中这些相关章节：
+
+- [Chapter 001: First Echo of Structure](../manifestation-codex/book-4-echo-expression/part-01-collapse-begins-to-speak/chapter-001-first-echo-of-structure.md) - How collapse begins to express itself through form | 坍塌如何开始通过形式表达自己
+- [Chapter 009: From Geometry to Symbol](../manifestation-codex/book-4-echo-expression/part-02-feedback-channel-architecture/chapter-009-from-geometry-to-symbol.md) - The architecture of expression channels | 表达通道的架构
+- [Chapter 025: You Complete the Collapse](../manifestation-codex/book-4-echo-expression/part-04-observer-driven-expression/chapter-025-you-complete-the-collapse.md) - How observers drive manifestation through expression | 观察者如何通过表达驱动显化
 
 ---
 

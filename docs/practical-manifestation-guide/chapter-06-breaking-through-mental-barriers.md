@@ -31,6 +31,10 @@ Let's identify the walls that may be limiting you:
 
 让我们识别可能限制你的墙：
 
+> **Reference to Manifestation Codex**: The barriers to manifestation flow are explored in [Book II: Collapse Ignition (震)](../manifestation-codex/book-2-collapse-ignition/index.md), particularly [Chapter 11: Operator Spark Conditions](../manifestation-codex/book-2-collapse-ignition/part-02-path-ignition-mechanics/chapter-011-operator-spark-conditions.md) and [Chapter 14: Trigger Shells](../manifestation-codex/book-2-collapse-ignition/part-02-path-ignition-mechanics/chapter-014-trigger-shells.md), which detail how consciousness can become blocked or channeled, and the mathematical conditions required for breakthrough.
+> 
+> **显化法典参考**：显化流动的障碍在[《第二册：坍缩点燃（震）》](../manifestation-codex/book-2-collapse-ignition/index.md)中得到探索，特别是[第11章：操作者火花条件](../manifestation-codex/book-2-collapse-ignition/part-02-path-ignition-mechanics/chapter-011-operator-spark-conditions.md)和[第14章：触发壳](../manifestation-codex/book-2-collapse-ignition/part-02-path-ignition-mechanics/chapter-014-trigger-shells.md)，详细说明了意识如何被阻塞或引导，以及突破所需的数学条件。
+
 ### 1. The Worthiness Wall / 价值感之墙
 **Sounds like**: "I don't deserve good things"
 **听起来像**："我不配拥有好东西"
@@ -398,6 +402,17 @@ I am breaking through NOW."
 Feel the walls crumbling. Feel the freedom expanding. You are free.
 
 感受墙壁崩塌。感受自由扩展。你是自由的。
+
+## Further Study in the Manifestation Codex
+## 显化法典中的进一步学习
+
+For deeper understanding of overcoming manifestation barriers and ignition mechanics, explore these chapters:
+
+要更深入理解克服显化障碍和点燃机制，请探索这些章节：
+
+- **[Chapter 13: Field Polarization and Collapse Onset](../manifestation-codex/book-2-collapse-ignition/part-02-path-ignition-mechanics/chapter-013-field-polarization-and-collapse-onset.md)** - How consciousness overcomes resistance to trigger manifestation / 意识如何克服阻力触发显化
+- **[Chapter 16: Ignition Without Observer](../manifestation-codex/book-2-collapse-ignition/part-02-path-ignition-mechanics/chapter-016-ignition-without-observer.md)** - Breaking through unconscious barriers / 突破无意识障碍  
+- **[Chapter 19: Path Emergence via Asymmetry](../manifestation-codex/book-2-collapse-ignition/part-03-multidirectional-collapse-vectors/chapter-019-path-emergence-via-asymmetry.md)** - How breakthrough creates new possibilities / 突破如何创造新可能性
 
 ---
 

@@ -104,6 +104,12 @@ Complete the manifestation cycle:
 ## Exercise 19.1: Design Your Daily Practice
 ## 练习 19.1：设计你的日常练习
 
+> **Manifestation Codex Reference | 显化法典参考**
+> 
+> The importance of consistent daily practice in maintaining manifestation alignment is explored in [Chapter 034: Collapse as Softness](../manifestation-codex/book-1-seed-of-collapse/part-05-containment-mechanics/chapter-034-collapse-as-softness.md), which explains how gentle, sustained pressure creates lasting transformation.
+> 
+> 保持显化对齐的持续日常练习的重要性在[第034章：坍塌如柔软](../manifestation-codex/book-1-seed-of-collapse/part-05-containment-mechanics/chapter-034-collapse-as-softness.md)中得到探讨，解释了温和、持续的压力如何创造持久的转化。
+
 Create your personalized routine:
 
 创建你的个性化例程：
@@ -358,6 +364,17 @@ Here's the magic: Each daily practice might seem small, but they compound expone
 Your daily practices are the bridge between dreaming and living your dreams.
 
 你的日常练习是梦想和活出你的梦想之间的桥梁。
+
+## Further Study in the Manifestation Codex
+## 在显化法典中的进一步学习
+
+To deepen your understanding of sustained daily practice and consistent manifestation power, explore these related chapters in the Manifestation Codex:
+
+为了加深你对持续日常练习和一致显化力量的理解，请探索显化法典中这些相关章节：
+
+- [Chapter 035: Pressureless Containment](../manifestation-codex/book-1-seed-of-collapse/part-05-containment-mechanics/chapter-035-pressureless-containment.md) - How effortless practice creates the strongest containers | 轻松的练习如何创造最强的容器
+- [Chapter 036: Stability Without Fixation](../manifestation-codex/book-1-seed-of-collapse/part-05-containment-mechanics/chapter-036-stability-without-fixation.md) - Maintaining consistency without rigidity | 在不僵化的情况下保持一致性
+- [Chapter 060: Receptivity is Sovereignty](../manifestation-codex/book-1-seed-of-collapse/part-08-kun-law/chapter-060-receptivity-is-sovereignty.md) - The power of receptive daily practice | 接受性日常练习的力量
 
 ---
 

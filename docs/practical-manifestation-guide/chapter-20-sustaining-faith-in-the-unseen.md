@@ -80,6 +80,12 @@ True faith has components:
 ## Exercise 20.1: Faith Strengthening Practice
 ## 练习 20.1：信念强化练习
 
+> **Manifestation Codex Reference | 显化法典参考**
+> 
+> The deep principles of sustaining faith during the unseen phase are explored in [Chapter 007: Non-Time](../manifestation-codex/book-1-seed-of-collapse/part-01-pre-collapse/chapter-007-non-time.md), which reveals how manifestation exists outside linear time, requiring a different kind of knowing.
+> 
+> 在未见阶段维持信念的深层原理在[第007章：非时间](../manifestation-codex/book-1-seed-of-collapse/part-01-pre-collapse/chapter-007-non-time.md)中得到探讨，揭示了显化如何存在于线性时间之外，需要不同种类的知晓。
+
 Build unshakeable faith:
 
 建立不可动摇的信念：
@@ -318,6 +324,17 @@ Here's what every master knows: Faith isn't about believing you'll get what you 
 Your faith is the bridge between dimensions. Walk it with confidence. Your desires are already waiting on the other side.
 
 你的信念是维度之间的桥梁。自信地走过它。你的愿望已经在另一边等待。
+
+## Further Study in the Manifestation Codex
+## 在显化法典中的进一步学习
+
+To deepen your understanding of sustaining faith in the unseen, explore these related chapters in the Manifestation Codex:
+
+为了加深你对维持对未见之物信念的理解，请探索显化法典中这些相关章节：
+
+- [Chapter 022: Seed Beyond Time](../manifestation-codex/book-1-seed-of-collapse/part-03-seed-encoding/chapter-022-seed-beyond-time.md) - How manifestations exist beyond linear temporal constraints | 显化如何存在于线性时间约束之外
+- [Chapter 024: Echoes Before Observer](../manifestation-codex/book-1-seed-of-collapse/part-03-seed-encoding/chapter-024-echoes-before-observer.md) - Understanding the pre-physical reality of your desires | 理解你愿望的前物理现实
+- [Chapter 016: Ready Unknowing](../manifestation-codex/book-1-seed-of-collapse/part-02-womb-initiation/chapter-016-ready-unknowing.md) - The power of trusting without needing to know how | 在不需要知道如何的情况下信任的力量
 
 ---
 

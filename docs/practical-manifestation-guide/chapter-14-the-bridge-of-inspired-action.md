@@ -114,6 +114,12 @@ _______________________
 ## Types of Inspired Action
 ## 灵感行动的类型
 
+> **Manifestation Codex Reference | 显化法典参考**
+> 
+> The mechanics of how impulses trigger movement into form are detailed in [Chapter 003: Collapse Impulse](../manifestation-codex/book-2-collapse-ignition/part-01-first-stirring/chapter-003-collapse-impulse.md), which explains how the first stirring of intent creates the pathway for manifestation.
+> 
+> 冲动如何触发向形式运动的机制在[第003章：坍塌冲动](../manifestation-codex/book-2-collapse-ignition/part-01-first-stirring/chapter-003-collapse-impulse.md)中有详细说明，解释了意图的第一次搅动如何为显化创造路径。
+
 Inspired action comes in many forms:
 
 灵感行动有多种形式：
@@ -372,6 +378,17 @@ Here's the secret: You don't need to know HOW your desires will manifest. You on
 Trust the bridge. It appears beneath your feet exactly when you need it.
 
 信任这座桥。它在你需要时准确地出现在你脚下。
+
+## Further Study in the Manifestation Codex
+## 在显化法典中的进一步学习
+
+To deepen your understanding of inspired action and the bridge between intention and manifestation, explore these related chapters in the Manifestation Codex:
+
+为了加深你对灵感行动和意图与显化之间桥梁的理解，请探索显化法典中这些相关章节：
+
+- [Chapter 026: Intention as Spark](../manifestation-codex/book-2-collapse-ignition/part-04-observer-as-ignition-catalyst/chapter-026-intention-as-spark.md) - How intention creates the initial spark for manifestation | 意图如何为显化创造初始火花
+- [Chapter 033: From Seed to Stream](../manifestation-codex/book-2-collapse-ignition/part-05-psi-path-formation-and-path-drift/chapter-033-from-seed-to-stream.md) - The formation of manifestation pathways | 显化路径的形成
+- [Chapter 017: Collapse Forms Language](../manifestation-codex/book-4-echo-expression/part-03-language-emergence-from-structure/chapter-017-collapse-forms-language.md) - How structure creates the language of action | 结构如何创造行动的语言
 
 ---
 

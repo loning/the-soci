@@ -41,6 +41,12 @@ Even smaller groups
 - Affects entire population / 影响整个人口
 - Exponential not linear / 指数而非线性
 
+> **🔮 Deep Dive: Collective Manifestation Meshes in the Codex**
+> 
+> The group coherence you're creating here activates what the Codex calls "collapse equals collective language onset." In [Chapter 025: Collapse Equals Collective Language Onset](../manifestation-codex/book-7-collapse-transmission/part-04-collective-collapse-meshes/chapter-025-collapse-equals-collective-language-onset.md), you'll discover how synchronized group intentions literally create new collective languages of reality. The "mass manifestation protocols" in Chapter 031 reveal advanced techniques for coordinating reality creation across multiple consciousness fields simultaneously.
+> 
+> 你在这里创造的团体连贯性激活了法典称为"坍缩等于集体语言开始"的东西。在[第025章：坍缩等于集体语言开始](../manifestation-codex/book-7-collapse-transmission/part-04-collective-collapse-meshes/chapter-025-collapse-equals-collective-language-onset.md)中，你将发现同步的团体意图如何字面上创造新的集体现实语言。第031章中的"大规模显化协议"揭示了同时在多个意识场域中协调现实创造的高级技术。
+
 ### Field Effects / 场效应
 Consciousness is non-local
 意识是非局域的
@@ -345,6 +351,23 @@ You manifesting for humanity isn't charity — it's self-realization at the deep
 This is your true power: not just to create your personal heaven, but to help birth heaven on Earth. The time is now. The power is yours. Humanity is ready.
 
 这是你真正的力量：不只是创造你的个人天堂，而是帮助在地球上诞生天堂。时间就是现在。力量是你的。人类已经准备好了。
+
+---
+
+## Further Study in the Manifestation Codex
+## 在显化法典中进一步学习
+
+To understand the advanced dynamics of collective manifestation and group consciousness coordination, explore these mesh chapters:
+
+要理解集体显化和团体意识协调的高级动力学，探索这些网络章节：
+
+- **[Chapter 025: Collapse Equals Collective Language Onset](../manifestation-codex/book-7-collapse-transmission/part-04-collective-collapse-meshes/chapter-025-collapse-equals-collective-language-onset.md)** — Learn how group manifestation creates new collective languages of reality that transcend individual limitations
+- **[Chapter 029: Observer Network Collapse Amplification](../manifestation-codex/book-7-collapse-transmission/part-04-collective-collapse-meshes/chapter-029-observer-network-collapse-amplification.md)** — Master techniques for amplifying manifestation power through conscious observer networks
+- **[Chapter 031: Mass Manifestation Protocols](../manifestation-codex/book-7-collapse-transmission/part-04-collective-collapse-meshes/chapter-031-mass-manifestation-protocols.md)** — Discover advanced protocols for coordinating large-scale reality creation across multiple consciousness fields simultaneously
+
+- **[第025章：坍缩等于集体语言开始](../manifestation-codex/book-7-collapse-transmission/part-04-collective-collapse-meshes/chapter-025-collapse-equals-collective-language-onset.md)** — 学习团体显化如何创造超越个体限制的新集体现实语言
+- **[第029章：观察者网络坍缩放大](../manifestation-codex/book-7-collapse-transmission/part-04-collective-collapse-meshes/chapter-029-observer-network-collapse-amplification.md)** — 掌握通过有意识的观察者网络放大显化力量的技术
+- **[第031章：大规模显化协议](../manifestation-codex/book-7-collapse-transmission/part-04-collective-collapse-meshes/chapter-031-mass-manifestation-protocols.md)** — 发现同时在多个意识场域中协调大规模现实创造的高级协议
 
 ---
 

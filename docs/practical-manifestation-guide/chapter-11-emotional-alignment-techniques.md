@@ -186,6 +186,10 @@ Spend 5 minutes generating and maintaining the aligned emotion
 ## Advanced Emotional Mastery
 ## 高级情绪掌控
 
+> 📚 **From the Manifestation Codex**: Advanced emotional work relates to the teachings in Book 4 [Echo Expression](../manifestation-codex/book-4-echo-expression/index.md), particularly [Chapter 031: Observer as Collapse Translator](../manifestation-codex/book-4-echo-expression/part-04-observer-driven-expression/chapter-031-observer-as-collapse-translator.md). Your emotions don't just attract experiences — they **translate** pure potential into specific reality forms. Emotional coherence creates the precise vibrational signature that reality uses to organize itself.
+>
+> 📚 **来自显化法典**：高级情绪工作与第四册[回音表达](../manifestation-codex/book-4-echo-expression/)的教导相关，特别是[第031章：观察者作为坍缩翻译器](../manifestation-codex/book-4-echo-expression/part-04-observer-driven-expression/chapter-031-observer-as-collapse-translator.md)。你的情绪不只是吸引体验——它们**翻译**纯粹的潜能为具体的现实形式。情绪连贯性创造现实用来组织自己的精确振动签名。
+
 ### Emotional Momentum / 情绪动量
 - Emotions build on themselves / 情绪建立在自身之上
 - 17 seconds begins momentum / 17秒开始动量
@@ -292,6 +296,21 @@ Your emotions are not reactions to reality — they are instructions to reality.
 Master your emotions, master your reality.
 
 掌控你的情绪，掌控你的现实。
+
+## Further Study in the Manifestation Codex
+## 在显化法典中的进一步学习
+
+For deeper exploration of emotional alignment mechanics:
+
+要更深入地探索情绪对齐机制：
+
+- **[Chapter 030: Echo Requires Intimacy](../manifestation-codex/book-4-echo-expression/part-04-observer-driven-expression/chapter-030-echo-requires-intimacy.md)** - How authentic emotional connection with your desires accelerates manifestation
+- **[Chapter 014: Collapse Shell Resonance Field](../manifestation-codex/book-4-echo-expression/part-02-feedback-channel-architecture/chapter-014-collapse-shell-resonance-field.md)** - The vibrational mechanics of how emotional frequency creates reality shells
+- **[Chapter 062: Collapse Equals Conversational Universe](../manifestation-codex/book-4-echo-expression/part-08-the-law-of-collapse-expression/chapter-062-collapse-equals-conversational-universe.md)** - Understanding that your emotions are literally a conversation with reality
+
+- **[第030章：回音需要亲密](../manifestation-codex/book-4-echo-expression/part-04-observer-driven-expression/chapter-030-echo-requires-intimacy.md)** - 与你的愿望真实的情绪连接如何加速显化
+- **[第014章：坍缩外壳共振场](../manifestation-codex/book-4-echo-expression/part-02-feedback-channel-architecture/chapter-014-collapse-shell-resonance-field.md)** - 情绪频率如何创造现实外壳的振动机制
+- **[第062章：坍缩等于对话宇宙](../manifestation-codex/book-4-echo-expression/part-08-the-law-of-collapse-expression/chapter-062-collapse-equals-conversational-universe.md)** - 理解你的情绪实际上是与现实的对话
 
 ---
 

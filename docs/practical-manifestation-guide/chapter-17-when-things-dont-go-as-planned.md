@@ -58,6 +58,12 @@ Growth before receiving
 ## The Gift of Contrast
 ## 对比的礼物
 
+> **Manifestation Codex Reference | 显化法典参考**
+> 
+> The complex dynamics of when manifestations take unexpected turns are explored in [Chapter 001: The Shell Turns Inward](../manifestation-codex/book-5-echo-reversal/part-01-the-entry-into-return/chapter-001-the-shell-turns-inward.md), which explains how apparent setbacks are often the beginning of deeper manifestation processes.
+> 
+> 当显化出现意外转折的复杂动态在[第001章：外壳向内转](../manifestation-codex/book-5-echo-reversal/part-01-the-entry-into-return/chapter-001-the-shell-turns-inward.md)中得到探讨，解释了表面的挫折往往是更深层显化过程的开始。
+
 What you don't want clarifies what you do want:
 
 你不想要的澄清了你想要的：
@@ -343,6 +349,17 @@ What needs course correction?
 ### Monthly: Celebrate Growth / 每月：庆祝成长
 How have challenges served you?
 挑战如何服务了你？
+
+## Further Study in the Manifestation Codex
+## 在显化法典中的进一步学习
+
+To deepen your understanding of navigating unexpected turns and divine detours, explore these related chapters in the Manifestation Codex:
+
+为了加深你对驾驭意外转折和神圣绕道的理解，请探索显化法典中这些相关章节：
+
+- [Chapter 002: Collapse is Not Linear](../manifestation-codex/book-5-echo-reversal/part-01-the-entry-into-return/chapter-002-collapse-is-not-linear.md) - Understanding the non-linear nature of manifestation pathways | 理解显化路径的非线性本质
+- [Chapter 009: Fate is Collapse Remembered](../manifestation-codex/book-5-echo-reversal/part-02-psi-trace-and-destiny-loops/chapter-009-fate-is-collapse-remembered.md) - How setbacks connect to larger destiny patterns | 挫折如何连接到更大的命运模式
+- [Chapter 041: Echo Without Shell](../manifestation-codex/book-1-seed-of-collapse/part-06-failure-states/chapter-041-echo-without-shell.md) - Understanding manifestation failure states and their purpose | 理解显化失败状态及其目的
 
 ---
 

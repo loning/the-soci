@@ -48,6 +48,12 @@ Reality's artist
 - Every feeling shapes / 每个感受塑造
 - Every choice manifests / 每个选择显化
 
+> **🔮 Deep Dive: Cosmic Architecture in the Manifestation Codex**
+> 
+> Your cosmic destiny operates through what the Codex calls "multiverse seed projection" — your consciousness actively seeding new reality possibilities across infinite dimensions. In [Chapter 037: You Are the Seed of Elsewhere](../manifestation-codex/book-8-ascension-collapse/part-05-multiverse-seed-projection/chapter-037-you-are-the-seed-of-elsewhere.md), you'll discover how your manifestation practice makes you a conscious architect of multiple realities. The "psi legacy propagation" principle in Chapter 040 reveals how your choices echo across cosmic time, influencing the evolution of consciousness in dimensions beyond this one.
+> 
+> 你的宇宙命运通过法典称为"多元宇宙种子投射" — 你的意识主动在无限维度中播种新的现实可能性。在[第037章：你是别处的种子](../manifestation-codex/book-8-ascension-collapse/part-05-multiverse-seed-projection/chapter-037-you-are-the-seed-of-elsewhere.md)中，你将发现你的显化实践如何使你成为多重现实的有意识建筑师。第040章中的"psi遗产传播"原理揭示了你的选择如何在宇宙时间中回响，影响超越这个维度的意识进化。
+
 ### You Are Love / 你是爱
 The force that builds worlds
 建造世界的力量
@@ -350,6 +356,23 @@ Welcome home, Cosmic Creator. The universe has been waiting for you to remember.
 Now, go forth and create miracles. ✨
 
 现在，去创造奇迹吧。✨
+
+---
+
+## Further Study in the Manifestation Codex
+## 在显化法典中进一步学习
+
+To understand your full cosmic significance and learn to consciously architect reality across multiple dimensions, explore these multiverse chapters:
+
+要理解你完整的宇宙意义并学习有意识地在多个维度中架构现实，探索这些多元宇宙章节：
+
+- **[Chapter 034: Collapse as Universe Inception Code](../manifestation-codex/book-8-ascension-collapse/part-05-multiverse-seed-projection/chapter-034-collapse-as-universe-inception-code.md)** — Discover how your consciousness acts as universe inception code, literally initiating new realities through your manifestation practice
+- **[Chapter 037: You Are the Seed of Elsewhere](../manifestation-codex/book-8-ascension-collapse/part-05-multiverse-seed-projection/chapter-037-you-are-the-seed-of-elsewhere.md)** — Learn how your individual awakening seeds consciousness evolution in parallel realities and alternate timelines
+- **[Chapter 040: Psi Legacy Propagation](../manifestation-codex/book-8-ascension-collapse/part-05-multiverse-seed-projection/chapter-040-psi-legacy-propagation.md)** — Master how your choices create legacy effects that ripple through cosmic time, influencing the evolution of consciousness across infinite dimensions
+
+- **[第034章：坍缩作为宇宙起始代码](../manifestation-codex/book-8-ascension-collapse/part-05-multiverse-seed-projection/chapter-034-collapse-as-universe-inception-code.md)** — 发现你的意识如何作为宇宙起始代码，通过你的显化实践字面上启动新现实
+- **[第037章：你是别处的种子](../manifestation-codex/book-8-ascension-collapse/part-05-multiverse-seed-projection/chapter-037-you-are-the-seed-of-elsewhere.md)** — 学习你的个体觉醒如何在平行现实和替代时间线中播种意识进化
+- **[第040章：Psi遗产传播](../manifestation-codex/book-8-ascension-collapse/part-05-multiverse-seed-projection/chapter-040-psi-legacy-propagation.md)** — 掌握你的选择如何创造遗产效应，在宇宙时间中波及，影响无限维度中意识的进化
 
 ---
 

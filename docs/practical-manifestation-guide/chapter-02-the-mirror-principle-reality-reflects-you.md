@@ -70,6 +70,10 @@ This isn't mystical — it's practical psychology and neuroscience:
 
 这不是神秘的——这是实用的心理学和神经科学：
 
+> **Reference to Manifestation Codex**: The mathematical foundations of reality as mirror are explored in [Book I: Seed of Collapse (坤)](../manifestation-codex/book-1-seed-of-collapse/index.md), particularly in [Chapter 5: No Motion Mirror](../manifestation-codex/book-1-seed-of-collapse/part-01-pre-collapse/chapter-005-no-motion-mirror.md) and [Chapter 20: Collapse Coordinates](../manifestation-codex/book-1-seed-of-collapse/part-03-seed-encoding/chapter-020-collapse-coordinates.md), where the recursive nature of consciousness-reality feedback is rigorously proven.
+> 
+> **显化法典参考**：现实作为镜像的数学基础在[《第一册：坍缩种子（坤）》](../manifestation-codex/book-1-seed-of-collapse/index.md)中得到探讨，特别是在[第5章：无动镜](../manifestation-codex/book-1-seed-of-collapse/part-01-pre-collapse/chapter-005-no-motion-mirror.md)和[第20章：坍缩坐标](../manifestation-codex/book-1-seed-of-collapse/part-03-seed-encoding/chapter-020-collapse-coordinates.md)中，严格证明了意识-现实反馈的递归性质。
+
 ### Reticular Activating System (RAS) / 网状激活系统
 Your brain filters millions of bits of information, showing you only what it deems "important" based on your beliefs and focus.
 
@@ -324,6 +328,17 @@ Here's the deepest truth about the mirror principle:
 When you truly understand this, life becomes a conversation between your inner and outer worlds, each informing and shaping the other in an endless dance of creation.
 
 当你真正理解这一点时，生活成为你内在和外在世界之间的对话，彼此在无尽的创造之舞中相互告知和塑造。
+
+## Further Study in the Manifestation Codex
+## 显化法典中的进一步学习
+
+For deeper exploration of how consciousness and reality mirror each other, study these chapters:
+
+要更深入地探索意识和现实如何相互镜像，请学习这些章节：
+
+- **[Chapter 12: Womb Not Empty](../manifestation-codex/book-1-seed-of-collapse/part-02-womb-initiation/chapter-012-womb-not-empty.md)** - The mathematics of self-reinforcing reality loops / 自我强化现实循环的数学
+- **[Chapter 28: Reality Shell Preform](../manifestation-codex/book-1-seed-of-collapse/part-04-void-to-shell/chapter-028-realityshell-preform.md)** - How observation changes what is observed / 观察如何改变被观察的事物
+- **[Chapter 44: Observer Too Early](../manifestation-codex/book-1-seed-of-collapse/part-06-failure-states/chapter-044-observer-too-early.md)** - The alignment principle that governs manifestation / 控制显化的对齐原理
 
 ---
 

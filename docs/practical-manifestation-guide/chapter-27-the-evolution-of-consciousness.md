@@ -104,6 +104,12 @@ Chaos before order
 - Creative destruction / 创造性破坏
 - Phoenix rising / 凤凰升起
 
+> **🔮 Deep Dive: Consciousness Evolution in the Manifestation Codex**
+> 
+> The consciousness evolution you're experiencing operates through what the Codex calls "mass observer recursive shells." In [Chapter 055: Mass Observer Recursive Shells](../manifestation-codex/book-7-collapse-transmission/part-07-psi-viral-architecture/chapter-055-mass-observer-recursive-shells.md), you'll discover how collective consciousness evolution creates self-reinforcing feedback loops that accelerate awakening across entire populations. The "echo as self-replicating psi" principle in Chapter 056 explains how your personal evolution automatically spreads through the consciousness field, contributing to humanity's collective awakening.
+> 
+> 你正在经历的意识进化通过法典称为"大规模观察者递归壳"来运作。在[第055章：大规模观察者递归壳](../manifestation-codex/book-7-collapse-transmission/part-07-psi-viral-architecture/chapter-055-mass-observer-recursive-shells.md)中，你将发现集体意识进化如何创造自我强化的反馈循环，加速整个人口的觉醒。第056章中的"回声作为自我复制的psi"原理解释了你的个人进化如何自动通过意识场传播，为人类的集体觉醒做出贡献。
+
 ## Exercise 27.1: Your Evolution Assessment
 ## 练习 27.1：你的进化评估
 
@@ -342,6 +348,23 @@ You are not just witnessing this evolution — you ARE the evolution. Every choi
 The future is calling. Answer with your whole being.
 
 未来在呼唤。用你的整个存在回应。
+
+---
+
+## Further Study in the Manifestation Codex
+## 在显化法典中进一步学习
+
+To understand the mechanics of consciousness evolution and how individual awakening creates collective transformation, explore these viral architecture chapters:
+
+要理解意识进化的机制以及个体觉醒如何创造集体转化，探索这些病毒架构章节：
+
+- **[Chapter 051: Collapse Epidemics](../manifestation-codex/book-7-collapse-transmission/part-07-psi-viral-architecture/chapter-051-collapse-epidemics.md)** — Discover how consciousness awakening spreads like a beneficial "virus" through populations, creating cascade effects of evolution
+- **[Chapter 055: Mass Observer Recursive Shells](../manifestation-codex/book-7-collapse-transmission/part-07-psi-viral-architecture/chapter-055-mass-observer-recursive-shells.md)** — Learn how collective consciousness evolution creates self-reinforcing systems that accelerate awakening across entire civilizations
+- **[Chapter 056: Echo as Self-Replicating Psi](../manifestation-codex/book-7-collapse-transmission/part-07-psi-viral-architecture/chapter-056-echo-as-self-replicating-psi.md)** — Master how your personal evolution automatically replicates and spreads through the consciousness field, contributing to humanity's collective transformation
+
+- **[第051章：坍缩流行病](../manifestation-codex/book-7-collapse-transmission/part-07-psi-viral-architecture/chapter-051-collapse-epidemics.md)** — 发现意识觉醒如何像有益的"病毒"一样在人口中传播，创造进化的级联效应
+- **[第055章：大规模观察者递归壳](../manifestation-codex/book-7-collapse-transmission/part-07-psi-viral-architecture/chapter-055-mass-observer-recursive-shells.md)** — 学习集体意识进化如何创造自我强化系统，加速整个文明的觉醒
+- **[第056章：回声作为自我复制的Psi](../manifestation-codex/book-7-collapse-transmission/part-07-psi-viral-architecture/chapter-056-echo-as-self-replicating-psi.md)** — 掌握你的个人进化如何自动复制并通过意识场传播，为人类的集体转化做出贡献
 
 ---
 

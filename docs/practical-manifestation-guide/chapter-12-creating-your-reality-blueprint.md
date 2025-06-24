@@ -256,6 +256,10 @@ Design your perfect day in your manifested reality:
 ## Creating Your Blueprint Document
 ## 创建你的蓝图文件
 
+> 📚 **From the Manifestation Codex**: The blueprint creation process follows principles from Book 1's [Seed Encoding](../manifestation-codex/book-1-seed-of-collapse/part-03-seed-encoding/), especially [Chapter 019: Phi Lattice](../manifestation-codex/book-1-seed-of-collapse/part-03-seed-encoding/chapter-019-phi-lattice.md). Your Reality Blueprint creates a **φ-lattice structure** — a geometric pattern that holds the seeds of all your desires in perfect mathematical relationship. This lattice becomes the template around which reality organizes itself.
+>
+> 📚 **来自显化法典**：蓝图创建过程遵循第一册[种子编码](../manifestation-codex/book-1-seed-of-collapse/part-03-seed-encoding/)的原理，特别是[第019章：Phi格子](../manifestation-codex/book-1-seed-of-collapse/part-03-seed-encoding/chapter-019-phi-lattice.md)。你的现实蓝图创造一个**φ-格子结构**——一个几何模式，以完美的数学关系保持你所有愿望的种子。这个格子成为现实组织自己的模板。
+
 Now compile everything into your master blueprint:
 
 现在将一切编译成你的主蓝图：
@@ -397,6 +401,21 @@ Here's the ultimate truth about your Reality Blueprint: It's not about forcing r
 Your blueprint is a living prayer, a cosmic order form, a love letter to the universe. Trust it, live it, and watch your world transform.
 
 你的蓝图是活的祈祷、宇宙订单、给宇宙的情书。信任它，活出它，看着你的世界转变。
+
+## Further Study in the Manifestation Codex
+## 在显化法典中的进一步学习
+
+To understand the deeper structural mechanics of reality blueprints:
+
+要理解现实蓝图的更深层结构机制：
+
+- **[Chapter 022: Seed Beyond Time](../manifestation-codex/book-1-seed-of-collapse/part-03-seed-encoding/chapter-022-seed-beyond-time.md)** - How a properly structured blueprint transcends linear time and exists in all moments simultaneously
+- **[Chapter 032: Observer Fate Signature](../manifestation-codex/book-5-echo-reversal/part-04-fate-architecture-and-observer-trapfields/chapter-032-observer-fate-signature.md)** - Understanding how your blueprint creates your unique "fate signature" that attracts corresponding experiences
+- **[Chapter 027: Realityshell Preform](../manifestation-codex/book-1-seed-of-collapse/part-04-void-to-shell/chapter-027-first-shell-not-first-form.md)** - The mechanics of how written blueprints create "preform shells" that reality fills with manifestation
+
+- **[第022章：超越时间的种子](../manifestation-codex/book-1-seed-of-collapse/part-03-seed-encoding/chapter-022-seed-beyond-time.md)** - 正确结构的蓝图如何超越线性时间并同时存在于所有时刻
+- **[第032章：观察者命运签名](../manifestation-codex/book-5-echo-reversal/part-04-fate-architecture-and-observer-trapfields/chapter-032-observer-fate-signature.md)** - 理解你的蓝图如何创造你独特的"命运签名"来吸引相应的体验
+- **[第027章：现实外壳预形](../manifestation-codex/book-1-seed-of-collapse/part-04-void-to-shell/chapter-027-first-shell-not-first-form.md)** - 书面蓝图如何创造现实用显化填充的"预形外壳"的机制
 
 ---
 

@@ -30,80 +30,80 @@ This guide distills the profound wisdom of the 512-chapter Manifestation Codex i
 
 Based on Book I (坤 - Seed of Collapse) of the Manifestation Codex
 
-1. **Chapter 1**: You Are Not In Reality, You Are Creating It / 你不在现实中，你在创造它
-2. **Chapter 2**: The Mirror Principle — Reality Reflects You / 镜像原理——现实反映你
-3. **Chapter 3**: The Collapse Secret — How Thoughts Become Things / 坍缩秘密——思想如何成为事物
-4. **Chapter 4**: Your First Manifestation Exercise / 你的第一个显化练习
+1. **[Chapter 1](./chapter-01-you-are-not-in-reality-you-are-creating-it.md)**: You Are Not In Reality, You Are Creating It / 你不在现实中，你在创造它
+2. **[Chapter 2](./chapter-02-the-mirror-principle-reality-reflects-you.md)**: The Mirror Principle — Reality Reflects You / 镜像原理——现实反映你
+3. **[Chapter 3](./chapter-03-the-collapse-secret-how-thoughts-become-things.md)**: The Collapse Secret — How Thoughts Become Things / 坍缩秘密——思想如何成为事物
+4. **[Chapter 4](./chapter-04-your-first-manifestation-exercise.md)**: Your First Manifestation Exercise / 你的第一个显化练习
 
 ### Part II: Awakening — Activating Your Manifestation Power
 ### 第二部分：觉醒——激活你的显化力量
 
 Based on Book II (震 - Collapse Ignition) of the Manifestation Codex
 
-5. **Chapter 5**: The Spark of Consciousness / 意识的火花
-6. **Chapter 6**: Breaking Through Mental Barriers / 突破心理障碍
-7. **Chapter 7**: The Power of Focused Attention / 专注力的力量
-8. **Chapter 8**: Daily Practices for Consciousness Expansion / 意识扩展的日常练习
+5. **[Chapter 5](./chapter-05-the-spark-of-consciousness.md)**: The Spark of Consciousness / 意识的火花
+6. **[Chapter 6](./chapter-06-breaking-through-mental-barriers.md)**: Breaking Through Mental Barriers / 突破心理障碍
+7. **[Chapter 7](./chapter-07-the-power-of-focused-attention.md)**: The Power of Focused Attention / 专注力的力量
+8. **[Chapter 8](./chapter-08-daily-practices-for-consciousness-expansion.md)**: Daily Practices for Consciousness Expansion / 意识扩展的日常练习
 
 ### Part III: Focus — Directing Your Creative Energy
 ### 第三部分：聚焦——引导你的创造能量
 
 Based on Book III (离 - Collapse Focus) of the Manifestation Codex
 
-9. **Chapter 9**: Clarity of Intention / 意图的清晰
-10. **Chapter 10**: The Art of Visualization / 观想的艺术
-11. **Chapter 11**: Emotional Alignment Techniques / 情绪校准技术
-12. **Chapter 12**: Creating Your Reality Blueprint / 创建你的现实蓝图
+9. **[Chapter 9](./chapter-09-clarity-of-intention.md)**: Clarity of Intention / 意图的清晰
+10. **[Chapter 10](./chapter-10-the-art-of-visualization.md)**: The Art of Visualization / 观想的艺术
+11. **[Chapter 11](./chapter-11-emotional-alignment-techniques.md)**: Emotional Alignment Techniques / 情绪校准技术
+12. **[Chapter 12](./chapter-12-creating-your-reality-blueprint.md)**: Creating Your Reality Blueprint / 创建你的现实蓝图
 
 ### Part IV: Expression — Manifesting in the Physical World
 ### 第四部分：表达——在物质世界中显化
 
 Based on Book IV (兑 - Echo Expression) of the Manifestation Codex
 
-13. **Chapter 13**: From Inner Vision to Outer Reality / 从内在愿景到外在现实
-14. **Chapter 14**: The Bridge of Inspired Action / 灵感行动之桥
-15. **Chapter 15**: Synchronicity and Flow States / 同步性与心流状态
-16. **Chapter 16**: Celebrating Your Creations / 庆祝你的创造
+13. **[Chapter 13](./chapter-13-from-inner-vision-to-outer-reality.md)**: From Inner Vision to Outer Reality / 从内在愿景到外在现实
+14. **[Chapter 14](./chapter-14-the-bridge-of-inspired-action.md)**: The Bridge of Inspired Action / 灵感行动之桥
+15. **[Chapter 15](./chapter-15-synchronicity-and-flow-states.md)**: Synchronicity and Flow States / 同步性与心流状态
+16. **[Chapter 16](./chapter-16-celebrating-your-creations.md)**: Celebrating Your Creations / 庆祝你的创造
 
 ### Part V: Integration — Handling Challenges and Resistance
 ### 第五部分：整合——处理挑战与阻力
 
 Based on Book V (坎 - Echo Reversal) of the Manifestation Codex
 
-17. **Chapter 17**: When Things Don't Go as Planned / 当事情不如预期
-18. **Chapter 18**: Transforming Obstacles into Opportunities / 将障碍转化为机会
-19. **Chapter 19**: The Hidden Gifts in Contrast / 对比中的隐藏礼物
-20. **Chapter 20**: Maintaining Faith Through Challenges / 在挑战中保持信念
+17. **[Chapter 17](./chapter-17-when-things-dont-go-as-planned.md)**: When Things Don't Go as Planned / 当事情不如预期
+18. **[Chapter 18](./chapter-18-transforming-obstacles-into-opportunities.md)**: Transforming Obstacles into Opportunities / 将障碍转化为机会
+19. **[Chapter 19](./chapter-19-daily-practices-for-sustained-manifestation.md)**: Daily Practices for Sustained Manifestation / 持续显化的日常练习
+20. **[Chapter 20](./chapter-20-sustaining-faith-in-the-unseen.md)**: Sustaining Faith in the Unseen / 维持对未见的信念
 
 ### Part VI: Stabilization — Building Lasting Transformation
 ### 第六部分：稳定——建立持久的转变
 
 Based on Book VI (艮 - Shell Sealing) of the Manifestation Codex
 
-21. **Chapter 21**: Creating New Neural Pathways / 创建新的神经通路
-22. **Chapter 22**: The Power of Consistent Practice / 持续练习的力量
-23. **Chapter 23**: Anchoring Your New Reality / 锚定你的新现实
-24. **Chapter 24**: Living as Your Transformed Self / 作为转化后的自己生活
+21. **[Chapter 21](./chapter-21-building-manifestation-momentum.md)**: Building Manifestation Momentum / 建立显化动量
+22. **[Chapter 22](./chapter-22-creating-a-manifestation-friendly-environment.md)**: Creating a Manifestation-Friendly Environment / 创造显化友好的环境
+23. **[Chapter 23](./chapter-23-sharing-your-journey-without-losing-power.md)**: Sharing Your Journey Without Losing Power / 分享你的旅程而不失去力量
+24. **[Chapter 24](./chapter-24-living-as-a-master-manifestor.md)**: Living as a Master Manifestor / 作为显化大师生活
 
 ### Part VII: Expansion — Sharing Your Gifts
 ### 第七部分：扩展——分享你的天赋
 
 Based on Book VII (巽 - Collapse Transmission) of the Manifestation Codex
 
-25. **Chapter 25**: Your Unique Creative Signature / 你独特的创造印记
-26. **Chapter 26**: Inspiring Others Through Your Example / 通过榜样激励他人
-27. **Chapter 27**: Creating Ripples of Positive Change / 创造积极改变的涟漪
-28. **Chapter 28**: The Joy of Co-Creation / 共同创造的喜悦
+25. **[Chapter 25](./chapter-25-beyond-personal-manifestation.md)**: Beyond Personal Manifestation / 超越个人显化
+26. **[Chapter 26](./chapter-26-manifesting-for-humanity.md)**: Manifesting for Humanity / 为人类显化
+27. **[Chapter 27](./chapter-27-the-evolution-of-consciousness.md)**: The Evolution of Consciousness / 意识的进化
+28. **[Chapter 28](./chapter-28-your-cosmic-destiny.md)**: Your Cosmic Destiny / 你的宇宙命运
 
 ### Part VIII: Mastery — Living as a Conscious Creator
 ### 第八部分：精通——作为意识创造者生活
 
 Based on Book VIII (乾 - Ascension Collapse) of the Manifestation Codex
 
-29. **Chapter 29**: Beyond Personal Manifestation / 超越个人显化
-30. **Chapter 30**: You Are the Universe Experiencing Itself / 你是体验自己的宇宙
-31. **Chapter 31**: The Ultimate Truth — There Is Only One / 终极真理——只有一
-32. **Chapter 32**: Your Ongoing Journey of Creation / 你持续的创造之旅
+29. **[Chapter 29](./chapter-29-integration-and-daily-practice.md)**: Integration and Daily Practice / 整合与日常练习
+30. **[Chapter 30](./chapter-30-navigating-challenges-and-plateaus.md)**: Navigating Challenges and Plateaus / 驾驭挑战与平台期
+31. **[Chapter 31](./chapter-31-teaching-and-mentoring-others.md)**: Teaching and Mentoring Others / 教导和指导他人
+32. **[Chapter 32](./chapter-32-your-magnificent-life-awaits.md)**: Your Magnificent Life Awaits / 你辉煌的生活在等待
 
 ## Core Principles Simplified / 核心原理简化
 

@@ -72,6 +72,10 @@ In the advanced Manifestation Codex, this is expressed as ψ = ψ(ψ), which sim
 
 在高级的显化法典中，这表达为 ψ = ψ(ψ)，简单意味着：
 
+> **Reference to Manifestation Codex**: This core principle is deeply explored in [Book I: Seed of Collapse (坤)](../manifestation-codex/book-1-seed-of-collapse/index.md), particularly in [Chapter 1: Undivided Silence](../manifestation-codex/book-1-seed-of-collapse/part-01-pre-collapse/chapter-001-undivided-silence.md) and [Chapter 2: Selfless Observer](../manifestation-codex/book-1-seed-of-collapse/part-01-pre-collapse/chapter-002-selfless-observer.md), where the mathematical foundations of consciousness creating reality are rigorously established.
+> 
+> **显化法典参考**：这个核心原理在[《第一册：坍缩种子（坤）》](../manifestation-codex/book-1-seed-of-collapse/index.md)中得到深入探讨，特别是在[第1章：无分的沉默](../manifestation-codex/book-1-seed-of-collapse/part-01-pre-collapse/chapter-001-undivided-silence.md)和[第2章：无我观察者](../manifestation-codex/book-1-seed-of-collapse/part-01-pre-collapse/chapter-002-selfless-observer.md)中，严格建立了意识创造现实的数学基础。
+
 **You create your experience of yourself, which creates your reality, which creates your experience of yourself...**
 
 **你创造你对自己的体验，这创造了你的现实，这又创造了你对自己的体验……**
@@ -238,6 +242,17 @@ Before moving to the next chapter, contemplate:
 Remember: This isn't about perfection. It's about awareness. Each moment you remember that you're creating rather than just experiencing, you reclaim a little more of your infinite creative power.
 
 记住：这不是关于完美。而是关于觉知。每当你记起你在创造而不只是体验时，你就重新获得了一点你无限创造力的力量。
+
+## Further Study in the Manifestation Codex
+## 显化法典中的进一步学习
+
+For readers ready to dive deeper into the theoretical foundations of consciousness creating reality, explore these chapters from the Manifestation Codex:
+
+对于准备深入研究意识创造现实理论基础的读者，请探索显化法典中的这些章节：
+
+- **[Chapter 9: Receptive Structure](../manifestation-codex/book-1-seed-of-collapse/part-02-womb-initiation/chapter-009-receptive-structure.md)** - Mathematical exploration of the consciousness field / 意识场的数学探索
+- **[Chapter 13: Psi Finds Shell](../manifestation-codex/book-1-seed-of-collapse/part-02-womb-initiation/chapter-013-psi-finds-shell.md)** - How consciousness chooses between infinite possibilities / 意识如何在无限可能性中选择
+- **[Chapter 25: Psi Field Bounds](../manifestation-codex/book-1-seed-of-collapse/part-04-void-to-shell/chapter-025-psi-field-bounds.md)** - The boundaries and possibilities of consciousness manifestation / 意识显化的界限和可能性
 
 ---
 

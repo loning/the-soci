@@ -175,6 +175,10 @@ Remember:
 ## Advanced Visualization Techniques
 ## 高级观想技术
 
+> 📚 **From the Manifestation Codex**: These advanced techniques connect to Book 3's teachings on [Perception and Visual Collapse](../manifestation-codex/book-3-collapse-focus/part-04-perception-and-visual-collapse/), especially [Chapter 029: Collapse is the Act of Framing](../manifestation-codex/book-3-collapse-focus/part-04-perception-and-visual-collapse/chapter-029-collapse-is-the-act-of-framing.md). Your visualization literally **frames reality** — what you imagine becomes the structural template that reality uses to organize itself.
+>
+> 📚 **来自显化法典**：这些高级技术与第三册关于[感知和视觉坍缩](../manifestation-codex/book-3-collapse-focus/part-04-perception-and-visual-collapse/)的教导相连，特别是[第029章：坍缩是框架的行为](../manifestation-codex/book-3-collapse-focus/part-04-perception-and-visual-collapse/chapter-029-collapse-is-the-act-of-framing.md)。你的观想实际上**框架现实**——你想象的成为现实用来组织自己的结构模板。
+
 ### The Movie Method / 电影方法
 1. Create opening scene (current reality) / 创建开场场景（当前现实）
 2. Show transformation journey / 展示转化旅程
@@ -316,6 +320,21 @@ True masters of visualization don't just "do" visualization sessions — they li
 This is your invitation to join them. Make your inner vision so real, so vivid, so compelling that the universe rushes to match it in physical form.
 
 这是邀请你加入他们。让你的内在愿景如此真实、如此生动、如此引人注目，以至于宇宙急于在物理形式中匹配它。
+
+## Further Study in the Manifestation Codex
+## 在显化法典中的进一步学习
+
+To master the deeper mechanics of visualization:
+
+要掌握观想的更深层机制：
+
+- **[Chapter 002: Collapse is a Lens](../manifestation-codex/book-3-collapse-focus/part-01-collapse-as-focus/chapter-002-collapse-is-a-lens.md)** - Understanding how focused visualization works as a reality-focusing lens
+- **[Chapter 008: Collapse Equals Resolution](../manifestation-codex/book-3-collapse-focus/part-01-collapse-as-focus/chapter-008-collapse-equals-resolution.md)** - How detailed visualization increases the "resolution" of your manifestation
+- **[Chapter 032: Perceptual Collapse Inertia](../manifestation-codex/book-3-collapse-focus/part-04-perception-and-visual-collapse/chapter-032-perceptual-collapse-inertia.md)** - Why consistent visualization practice creates momentum in reality formation
+
+- **[第002章：坍缩是一个透镜](../manifestation-codex/book-3-collapse-focus/part-01-collapse-as-focus/chapter-002-collapse-is-a-lens.md)** - 理解聚焦观想如何作为现实聚焦透镜工作
+- **[第008章：坍缩等于分辨率](../manifestation-codex/book-3-collapse-focus/part-01-collapse-as-focus/chapter-008-collapse-equals-resolution.md)** - 详细观想如何增加你显化的"分辨率"
+- **[第032章：感知坍缩惯性](../manifestation-codex/book-3-collapse-focus/part-04-perception-and-visual-collapse/chapter-032-perceptual-collapse-inertia.md)** - 为什么持续的观想练习在现实形成中创造动量
 
 ---
 

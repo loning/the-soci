@@ -69,6 +69,12 @@ Higher frequency spreads
 - Energetic contagion / 能量传染
 - Field effects / 场效应
 
+> **🔮 Deep Dive: Collective Field Dynamics in the Manifestation Codex**
+> 
+> Your expansion beyond personal manifestation operates through what the Codex calls "psi wind" — the transmission of consciousness patterns across reality fields. In [Chapter 003: Wind Equals Collapse Carrier](../manifestation-codex/book-7-collapse-transmission/part-01-psi-becomes-breath/chapter-003-wind-equals-collapse-carrier.md), you'll discover how your personal manifestation power naturally diffuses to influence collective reality. The "observer field permeation" described in Chapter 008 explains how consciousness automatically seeks new shells to inhabit and transform.
+> 
+> 你超越个人显化的扩展通过法典称为"psi风" — 意识模式在现实场域中的传输来运作。在[第003章：风等于坍缩载体](../manifestation-codex/book-7-collapse-transmission/part-01-psi-becomes-breath/chapter-003-wind-equals-collapse-carrier.md)中，你将发现你的个人显化力量如何自然地扩散影响集体现实。第008章中描述的"观察者场渗透"解释了意识如何自动寻求新的壳来居住和转化。
+
 ### Your Success Inspires / 你的成功激励
 Possibility demonstrated
 可能性被展示
@@ -339,6 +345,23 @@ Your joy is humanity's joy. Your peace is the world's peace. Your abundance enri
 This is manifestation at its highest: recognizing that by creating your heaven, you help create heaven for all.
 
 这是最高的显化：认识到通过创造你的天堂，你帮助为所有人创造天堂。
+
+---
+
+## Further Study in the Manifestation Codex
+## 在显化法典中进一步学习
+
+To understand how consciousness naturally expands beyond individual boundaries and begins affecting collective reality, explore these transmission chapters:
+
+要理解意识如何自然扩展超越个体边界并开始影响集体现实，探索这些传输章节：
+
+- **[Chapter 002: Psi Begins to Diffuse](../manifestation-codex/book-7-collapse-transmission/part-01-psi-becomes-breath/chapter-002-psi-begins-to-diffuse.md)** — Discover how your personal manifestation power naturally begins to spread beyond your individual reality shell
+- **[Chapter 005: You Are No Longer the Only Observer](../manifestation-codex/book-7-collapse-transmission/part-01-psi-becomes-breath/chapter-005-you-are-no-longer-the-only-observer.md)** — Learn why expansion beyond personal manifestation is inevitable — consciousness seeks to include all perspectives in its creative process
+- **[Chapter 008: Observer Field Permeation](../manifestation-codex/book-7-collapse-transmission/part-01-psi-becomes-breath/chapter-008-observer-field-permeation.md)** — Master how your consciousness field naturally permeates and influences the reality fields of others, creating collective transformation
+
+- **[第002章：Psi开始扩散](../manifestation-codex/book-7-collapse-transmission/part-01-psi-becomes-breath/chapter-002-psi-begins-to-diffuse.md)** — 发现你的个人显化力量如何自然地开始传播超越你的个体现实壳
+- **[第005章：你不再是唯一的观察者](../manifestation-codex/book-7-collapse-transmission/part-01-psi-becomes-breath/chapter-005-you-are-no-longer-the-only-observer.md)** — 学习为什么超越个人显化的扩展是不可避免的 — 意识寻求在其创造过程中包括所有视角
+- **[第008章：观察者场渗透](../manifestation-codex/book-7-collapse-transmission/part-01-psi-becomes-breath/chapter-008-observer-field-permeation.md)** — 掌握你的意识场如何自然渗透和影响他人的现实场，创造集体转化
 
 ---
 

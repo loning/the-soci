@@ -170,6 +170,12 @@ Momentum = (Past Success + Present Action) × Future Faith
 Keep all three active
 保持三者都活跃
 
+> **🔮 Deep Dive: Collapse Momentum in the Manifestation Codex**
+> 
+> The momentum you're building here operates through what the Codex calls "psi-consciousness universe constructor" protocols. In [Chapter 027: The Observer Becomes the Engine](../manifestation-codex/book-8-ascension-collapse/part-04-observer-divinization/chapter-027-psi-consciousness-universe-constructor.md), you'll discover how sustained manifestation momentum transforms you from witness to architect of reality itself. The "collapse sovereignty protocols" in Chapter 032 reveal how master manifestors maintain momentum even through dimensional shifts.
+> 
+> 你在这里建立的动量通过法典称为"psi意识宇宙构造器"协议运作。在[第027章：观察者成为引擎](../manifestation-codex/book-8-ascension-collapse/part-04-observer-divinization/chapter-027-psi-consciousness-universe-constructor.md)中，你将发现持续的显化动量如何将你从见证者转变为现实本身的建筑师。第032章中的"塌缩主权协议"揭示了显化大师如何即使在维度转换中也维持动量。
+
 ## Creating Success Loops
 ## 创造成功循环
 
@@ -377,6 +383,23 @@ Build momentum not through pressure, but through pleasure. Not through force, bu
 The snowball is rolling. The force is with you. Your momentum is building. Enjoy the ride!
 
 雪球正在滚动。力量与你同在。你的动量正在建立。享受这段旅程！
+
+---
+
+## Further Study in the Manifestation Codex
+## 在显化法典中进一步学习
+
+To deepen your understanding of manifestation momentum and stabilization, explore these advanced chapters:
+
+要加深对显化动量和稳定化的理解，探索这些高级章节：
+
+- **[Chapter 001: Collapse Comes to a Hold](../manifestation-codex/book-6-shell-sealing/part-01-stillness-is-not-absence/chapter-001-collapse-comes-to-a-hold.md)** — Discover how momentum doesn't mean constant motion, but learning when to pause and hold your manifestations in perfect stillness
+- **[Chapter 025: Time Perception Equals Freeze Position](../manifestation-codex/book-6-shell-sealing/part-04-observer-time-anchor-systems/chapter-025-time-perception-equals-freeze-position.md)** — Master how your perception of time affects momentum, and how to anchor your identity in your manifestation timeline
+- **[Chapter 049: Collapse Time Crystal Event](../manifestation-codex/book-6-shell-sealing/part-07-time-crystals-and-recursive-memory/chapter-049-collapse-time-crystal-event.md)** — Learn to create "momentum crystals" — compressed experiences that can be recalled and amplified across all future manifestations
+
+- **[第001章：塌缩静止](../manifestation-codex/book-6-shell-sealing/part-01-stillness-is-not-absence/chapter-001-collapse-comes-to-a-hold.md)** — 发现动量不意味着持续运动，而是学习何时暂停并在完美静止中保持你的显化
+- **[第025章：时间感知等于冻结位置](../manifestation-codex/book-6-shell-sealing/part-04-observer-time-anchor-systems/chapter-025-time-perception-equals-freeze-position.md)** — 掌握你对时间的感知如何影响动量，以及如何在你的显化时间线中锚定你的身份
+- **[第049章：塌缩时间水晶事件](../manifestation-codex/book-6-shell-sealing/part-07-time-crystals-and-recursive-memory/chapter-049-collapse-time-crystal-event.md)** — 学习创造"动量水晶" — 可以在所有未来显化中回忆和放大的压缩体验
 
 ---
 

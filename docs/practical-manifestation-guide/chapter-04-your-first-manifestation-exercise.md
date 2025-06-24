@@ -94,6 +94,10 @@ Here's your step-by-step guide:
 
 这是你的逐步指南：
 
+> **Reference to Manifestation Codex**: The structured approach to manifestation outlined here draws from the receptive principles in [Book I: Seed of Collapse (坤)](../manifestation-codex/book-1-seed-of-collapse/index.md), particularly [Chapter 9: Receptive Structure](../manifestation-codex/book-1-seed-of-collapse/part-02-womb-initiation/chapter-009-receptive-structure.md) and [Chapter 15: Curvature Acceptance](../manifestation-codex/book-1-seed-of-collapse/part-02-womb-initiation/chapter-015-curvature-acceptance.md), which detail how consciousness prepares the proper container for manifestation.
+> 
+> **显化法典参考**：这里概述的结构化显化方法借鉴了[《第一册：坍缩种子（坤）》](../manifestation-codex/book-1-seed-of-collapse/index.md)中的接受性原理，特别是[第9章：接受性结构](../manifestation-codex/book-1-seed-of-collapse/part-02-womb-initiation/chapter-009-receptive-structure.md)和[第15章：曲率接受](../manifestation-codex/book-1-seed-of-collapse/part-02-womb-initiation/chapter-015-curvature-acceptance.md)，详细说明了意识如何为显化准备适当的容器。
+
 ### Phase 1: Preparation (5 minutes)
 ### 阶段1：准备（5分钟）
 
@@ -114,6 +118,20 @@ Here's your step-by-step guide:
 
 ### Phase 2: Creation (10 minutes)
 ### 阶段2：创造（10分钟）
+
+---
+
+> **🔗 Manifestation Codex Connection**
+> **🔗 显化法典连接**
+> 
+> The receptive state you're cultivating in this exercise corresponds to the **Book I: Seed of Collapse** principles, particularly Chapter 9 ("Receptive Structure") and Chapter 10 ("Field Waits"). These chapters explain how consciousness must first become receptive before manifestation can occur — like preparing fertile soil before planting seeds.
+> 
+> 你在这个练习中培养的接受状态对应于**第一册：坍缩之种**的原理，特别是第9章（"接受性结构"）和第10章（"场在等待"）。这些章节解释了意识必须首先变得接受，然后显化才能发生——就像在播种前准备肥沃的土壤。
+>
+> → [Book I: Chapter 9 - Receptive Structure](../manifestation-codex/book-1-seed-of-collapse/part-02-womb-initiation/chapter-009-receptive-structure.md)
+> → [Book I: Chapter 10 - Field Waits](../manifestation-codex/book-1-seed-of-collapse/part-02-womb-initiation/chapter-010-field-waits.md)
+
+---
 
 **4. State Your Intention** / **陈述你的意图**
 Write and speak:
@@ -395,6 +413,17 @@ This first manifestation is just the beginning. As you'll discover in the coming
 But it all starts here, with your first conscious creation.
 
 但一切都从这里开始，从你的第一次有意识创造开始。
+
+## Further Study in the Manifestation Codex
+## 在显化法典中进一步学习
+
+For deeper understanding of the manifestation process used in this exercise, explore these chapters:
+
+要更深入理解这个练习中使用的显化过程，请探索这些章节：
+
+- **[Chapter 10: Field Waits](../manifestation-codex/book-1-seed-of-collapse/part-02-womb-initiation/chapter-010-field-waits.md)** - How the consciousness field prepares for manifestation / 意识场如何为显化做准备
+- **[Chapter 16: Ready Unknowing](../manifestation-codex/book-1-seed-of-collapse/part-02-womb-initiation/chapter-016-ready-unknowing.md)** - The receptive state that allows manifestation to occur / 允许显化发生的接受状态
+- **[Chapter 57: Stillness is Power](../manifestation-codex/book-1-seed-of-collapse/part-08-kun-law/chapter-057-stillness-is-power.md)** - The Kun principle of receptive manifestation power / 接受性显化力量的坤原理
 
 ---
 

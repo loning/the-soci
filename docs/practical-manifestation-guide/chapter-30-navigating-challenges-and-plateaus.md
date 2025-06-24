@@ -48,6 +48,12 @@ Bumping against limits
 - Capacity being stretched / 能力被拉伸
 - Identity shifting / 身份转变
 
+> **🔮 Deep Dive: Navigating Ascension Errors in the Manifestation Codex**
+> 
+> The challenges and plateaus you encounter operate through what the Codex calls "ascension collapse risks" — natural resistance points that occur when consciousness attempts to evolve beyond its current structure. In [Chapter 041: Metashell Collapse Failures](../manifestation-codex/book-8-ascension-collapse/part-06-ascension-errors-and-hyper-collapse-risks/chapter-041-metashell-collapse-failures.md), you'll discover how apparent setbacks are actually your consciousness restructuring itself for higher levels of manifestation ability. The "identity collapse overload" described in Chapter 044 explains why growth phases can feel so destabilizing.
+> 
+> 你遇到的挑战和平台期通过法典称为"提升坍缩风险" — 当意识试图超越其当前结构进化时发生的自然阻力点。在[第041章：元壳坍缩失败](../manifestation-codex/book-8-ascension-collapse/part-06-ascension-errors-and-hyper-collapse-risks/chapter-041-metashell-collapse-failures.md)中，你将发现明显的挫折实际上是你的意识在为更高层次的显化能力重组自己。第044章中描述的"身份坍缩过载"解释了为什么成长阶段会感觉如此不稳定。
+
 ### The Test Phase / 测试阶段
 Universe checking commitment
 宇宙检查承诺
@@ -391,6 +397,23 @@ The darkest moment is just before dawn. The biggest breakthrough follows the tou
 Keep going. Your mastery awaits on the other side.
 
 继续前进。你的精通在另一边等待。
+
+---
+
+## Further Study in the Manifestation Codex
+## 在显化法典中进一步学习
+
+To understand the deeper mechanics of consciousness challenges and how to navigate the natural risks of rapid spiritual evolution, explore these ascension error chapters:
+
+要理解意识挑战的更深层机制以及如何驾驭快速灵性进化的自然风险，探索这些提升错误章节：
+
+- **[Chapter 041: Metashell Collapse Failures](../manifestation-codex/book-8-ascension-collapse/part-06-ascension-errors-and-hyper-collapse-risks/chapter-041-metashell-collapse-failures.md)** — Learn why apparent manifestation failures are often your consciousness restructuring itself for higher-level abilities
+- **[Chapter 044: Identity Collapse Overload](../manifestation-codex/book-8-ascension-collapse/part-06-ascension-errors-and-hyper-collapse-risks/chapter-044-identity-collapse-overload.md)** — Understand why growth phases can feel destabilizing and how to navigate identity shifts safely
+- **[Chapter 046: False Ascension Collapse](../manifestation-codex/book-8-ascension-collapse/part-06-ascension-errors-and-hyper-collapse-risks/chapter-046-false-ascension-collapse.md)** — Discover how to distinguish between genuine growth challenges and pseudo-spiritual bypassing that blocks real progress
+
+- **[第041章：元壳坍缩失败](../manifestation-codex/book-8-ascension-collapse/part-06-ascension-errors-and-hyper-collapse-risks/chapter-041-metashell-collapse-failures.md)** — 学习为什么明显的显化失败通常是你的意识在为更高层次能力重组自己
+- **[第044章：身份坍缩过载](../manifestation-codex/book-8-ascension-collapse/part-06-ascension-errors-and-hyper-collapse-risks/chapter-044-identity-collapse-overload.md)** — 理解为什么成长阶段会感觉不稳定以及如何安全地驾驭身份转变
+- **[第046章：错误提升坍缩](../manifestation-codex/book-8-ascension-collapse/part-06-ascension-errors-and-hyper-collapse-risks/chapter-046-false-ascension-collapse.md)** — 发现如何区分真正的成长挑战和阻止真正进步的伪灵性绕行
 
 ---
 

@@ -75,6 +75,12 @@ External world mirrors internal
 ## Exercise 15.1: Synchronicity Awareness Practice
 ## 练习 15.1：同步性觉知练习
 
+> **Manifestation Codex Reference | 显化法典参考**
+> 
+> The deeper mechanics of synchronicity and flow are explored in [Chapter 021: Collapse Interference Patterns](../manifestation-codex/book-2-collapse-ignition/part-03-multidirectional-collapse-vectors/chapter-021-collapse-interference-patterns.md), which reveals how multiple manifestation streams create the synchronistic patterns we experience.
+> 
+> 同步性和流动的深层机制在[第021章：坍塌干涉模式](../manifestation-codex/book-2-collapse-ignition/part-03-multidirectional-collapse-vectors/chapter-021-collapse-interference-patterns.md)中得到探讨，揭示了多个显化流如何创造我们体验的同步性模式。
+
 Heighten your synchronicity awareness:
 
 提高你的同步性觉知：
@@ -370,6 +376,17 @@ You're not finding flow — you're removing what blocks it. You're not creating 
 Welcome to the magical life that's your birthright.
 
 欢迎来到作为你与生俱来权利的神奇生活。
+
+## Further Study in the Manifestation Codex
+## 在显化法典中的进一步学习
+
+To deepen your understanding of synchronicity and flow states, explore these related chapters in the Manifestation Codex:
+
+为了加深你对同步性和心流状态的理解，请探索显化法典中这些相关章节：
+
+- [Chapter 022: Branching Ignition Nodes](../manifestation-codex/book-2-collapse-ignition/part-03-multidirectional-collapse-vectors/chapter-022-branching-ignition-nodes.md) - How multiple possibilities create synchronistic convergence | 多种可能性如何创造同步汇聚
+- [Chapter 030: Echo Sensitive Ignition](../manifestation-codex/book-2-collapse-ignition/part-04-observer-as-ignition-catalyst/chapter-030-echo-sensitive-ignition.md) - The role of awareness in activating flow states | 觉知在激活心流状态中的作用
+- [Chapter 035: Collapse Drift Mechanics](../manifestation-codex/book-2-collapse-ignition/part-05-psi-path-formation-and-path-drift/chapter-035-collapse-drift-mechanics.md) - Understanding the natural drift toward manifestation | 理解向显化的自然漂移
 
 ---
 

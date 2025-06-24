@@ -68,6 +68,10 @@ Science reveals attention's power:
 
 科学揭示注意力的力量：
 
+> **Reference to Manifestation Codex**: The role of attention in triggering reality collapse is extensively detailed in [Book II: Collapse Ignition (震)](../manifestation-codex/book-2-collapse-ignition/index.md), particularly [Chapter 25: Attention Triggers Collapse](../manifestation-codex/book-2-collapse-ignition/part-04-observer-as-ignition-catalyst/chapter-025-attention-triggers-collapse.md) and [Chapter 27: Observer Collapse Switch](../manifestation-codex/book-2-collapse-ignition/part-04-observer-as-ignition-catalyst/chapter-027-observer-collapse-switch.md), which provide the mathematical framework for how focused attention creates reality selection.
+> 
+> **显化法典参考**：注意力在触发现实坍缩中的作用在[《第二册：坍缩点燃（震）》](../manifestation-codex/book-2-collapse-ignition/index.md)中得到广泛详述，特别是[第25章：注意力触发坍缩](../manifestation-codex/book-2-collapse-ignition/part-04-observer-as-ignition-catalyst/chapter-025-attention-triggers-collapse.md)和[第27章：观察者坍缩开关](../manifestation-codex/book-2-collapse-ignition/part-04-observer-as-ignition-catalyst/chapter-027-observer-collapse-switch.md)，提供了专注注意力如何创造现实选择的数学框架。
+
 ### The Observer Effect / 观察者效应
 In quantum physics, observation collapses possibility into actuality. Your attention does the same in daily life.
 
@@ -326,6 +330,17 @@ Make this commitment:
 "From this moment forward, I choose to invest my precious attention wisely. I focus on what I want to create, not what I want to avoid. I withdraw attention from lack and place it on abundance. I am the master of my focus, the director of my energy, the creator of my reality through the power of my attention. Where I look, life blooms."
 
 "从这一刻起，我选择明智地投资我珍贵的注意力。我专注于我想创造的，而不是我想避免的。我从匮乏中撤回注意力，将它放在丰盛上。我是我焦点的主人，我能量的导演，通过我注意力的力量创造我现实的创造者。我看向哪里，生命就在哪里绽放。"
+
+## Further Study in the Manifestation Codex
+## 显化法典中的进一步学习
+
+For deeper understanding of attention as the trigger of reality collapse and manifestation mechanics, explore these chapters:
+
+要更深入理解注意力作为现实坍缩触发器和显化机制，请探索这些章节：
+
+- **[Chapter 26: Intention as Spark](../manifestation-codex/book-2-collapse-ignition/part-04-observer-as-ignition-catalyst/chapter-026-intention-as-spark.md)** - How focused intention directs collapse outcomes / 专注意图如何引导坍缩结果
+- **[Chapter 28: Collapse Alignment via Gaze](../manifestation-codex/book-2-collapse-ignition/part-04-observer-as-ignition-catalyst/chapter-028-collapse-alignment-via-gaze.md)** - The role of directed attention in reality formation / 定向注意力在现实形成中的作用
+- **[Chapter 12: Phi Path Spark Mapping](../manifestation-codex/book-2-collapse-ignition/part-02-path-ignition-mechanics/chapter-012-phi-path-spark-mapping.md)** - Mathematical mapping of attention's creative pathways / 注意力创造通路的数学映射
 
 ---
 
