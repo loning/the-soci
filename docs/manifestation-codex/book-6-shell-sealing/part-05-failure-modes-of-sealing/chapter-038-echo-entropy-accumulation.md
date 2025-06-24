@@ -49,7 +49,8 @@ $$
 累积效应导致：
 $$
 S[\Psi_n] = S[\Psi_0] + \sum_{k=0}^{n-1} \Delta S_k \xrightarrow{n \to \infty} \infty
-$$∎
+$$
+∎
 
 ## 38.2 声学混响的量子类比
 
@@ -60,6 +61,7 @@ $$T = 0.161V/(A\alpha)$$
 其中$V$是体积，$A$是表面积，$\alpha$是吸收系数。
 
 在量子系统中，"混响"表现为退相干：
+
 $$
 \mathcal{C}(t) = |\langle \psi(0)|\psi(t) \rangle|^2 = \exp(-t/\tau_\phi)
 $$
@@ -142,6 +144,7 @@ $$
 其中$\rho_A$是子系统A的约化密度矩阵。
 
 Page曲线描述黑洞蒸发：
+
 ```math
 S(t) = \begin{cases}
 S_0 + ct & t < t_{Page} \\
@@ -152,6 +155,7 @@ S_{BH}(t) & t > t_{Page}
 类似地，回声系统也有转折点。
 
 纠缠的单配性：
+
 $$
 \mathcal{C}_{AB} + \mathcal{C}_{AC} \leq \mathcal{C}_{A(BC)}
 $$

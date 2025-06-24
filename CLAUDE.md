@@ -287,12 +287,14 @@ Please avoid using the following structures:
 - ❌ Unsupported commands: `\textbf`, `\newcommand`, `\overbrace`, `\boxed`, `\label`, `\ref`, etc.
 - ❌ Unmatched `\left.` and `\right.` brackets
 - ❌ Illegal nested commands, such as `\frac{\textbf{x}}{y}`
+- ❌ **NEVER use `$$∎` or `$$` followed by `∎`** - Always put the ∎ symbol on a separate line outside the math block
 
 ✅ Alternative suggestions:
 - Use `\begin{aligned}...\end{aligned}` instead of `align`
 - Use `\mathbf{}` instead of `\textbf{}`
 - Use configuration macros instead of `\newcommand`
 - All multi-line structures must be explicitly wrapped in valid environments
+- For proof endings, use: `$$formula$$` then on next line just `∎`
 
 
 ### Formula Formatting Standards

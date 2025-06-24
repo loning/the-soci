@@ -51,7 +51,9 @@ $$
 由量子信息的不可克隆定理，保存$\rho_{echo}$和$\rho_{environment}$足以重建：
 $$
 F_{reconstruct} = |\langle\Psi_0|\Psi_{rebuilt}\rangle|^2 > 1 - \epsilon
-$$∎
+$$
+
+∎
 
 ## 47.2 声学记忆的量子化
 
